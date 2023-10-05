@@ -41,7 +41,7 @@ st.title('AGRICULTURE CROP PREDICTION USING TIME SERIES ANALYSIS')
 Country = st.selectbox(
     "Select the state from the list",
     country['Area'].unique(),
-    index=None,
+    #index=None,
     #format_func=lambda x: x,
     #placeholder="Select state",
 )
@@ -51,8 +51,8 @@ st.write('You selected state:', Country)
 Crops = st.selectbox(
     "Select the Crop from the list",
     country[country['Area'] == Country]['Item'].unique(),
-    index=None,
-    format_func=lambda x: x,
+    #index=None,
+    #format_func=lambda x: x,
     #placeholder="Select Crop",
 )
 
