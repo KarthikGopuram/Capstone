@@ -43,7 +43,7 @@ Country = st.selectbox(
     country['Area'].unique(),
     index=None,
     format_func=lambda x: x,
-    placeholder="Select state",
+    #placeholder="Select state",
 )
 
 st.write('You selected state:', Country)
@@ -53,7 +53,7 @@ Crops = st.selectbox(
     country[country['Area'] == Country]['Item'].unique(),
     index=None,
     format_func=lambda x: x,
-    placeholder="Select Crop",
+    #placeholder="Select Crop",
 )
 
 st.write('You selected state:', Crops)
