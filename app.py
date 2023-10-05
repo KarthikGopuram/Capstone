@@ -42,7 +42,7 @@ Country = st.selectbox(
     "Select the state from the list",
     country['Area'].unique(),
     index=None,
-    format_func=lambda x: x,
+    #format_func=lambda x: x,
     #placeholder="Select state",
 )
 
