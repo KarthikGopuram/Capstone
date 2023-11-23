@@ -55,6 +55,12 @@ QC,Crops,2,Afghanistan,5419,Yield,56,Maize,2013,2013,hg/ha,21972
 QC,Crops,2,Afghanistan,5419,Yield,56,Maize,2014,2014,hg/ha,24882
 QC,Crops,2,Afghanistan,5419,Yield,56,Maize,2015,2015,hg/ha,21457
 QC,Crops,2,Afghanistan,5419,Yield,56,Maize,2016,2016,hg/ha,20517
+QC,Crops,2,Afghanistan,5419,Yield,56,Maize,2017,2017,hg/ha,21717
+QC,Crops,2,Afghanistan,5419,Yield,56,Maize,2018,2018,hg/ha,22517
+QC,Crops,2,Afghanistan,5419,Yield,56,Maize,2019,2019,hg/ha,21417
+QC,Crops,2,Afghanistan,5419,Yield,56,Maize,2020,2020,hg/ha,22517
+QC,Crops,2,Afghanistan,5419,Yield,56,Maize,2021,2021,hg/ha,23327
+QC,Crops,2,Afghanistan,5419,Yield,56,Maize,2022,2022,hg/ha,22999
 QC,Crops,2,Afghanistan,5419,Yield,116,Potatoes,1961,1961,hg/ha,86667
 QC,Crops,2,Afghanistan,5419,Yield,116,Potatoes,1962,1962,hg/ha,76667
 QC,Crops,2,Afghanistan,5419,Yield,116,Potatoes,1963,1963,hg/ha,81333
@@ -111,6 +117,12 @@ QC,Crops,2,Afghanistan,5419,Yield,116,Potatoes,2013,2013,hg/ha,131960
 QC,Crops,2,Afghanistan,5419,Yield,116,Potatoes,2014,2014,hg/ha,136054
 QC,Crops,2,Afghanistan,5419,Yield,116,Potatoes,2015,2015,hg/ha,130903
 QC,Crops,2,Afghanistan,5419,Yield,116,Potatoes,2016,2016,hg/ha,119868
+QC,Crops,2,Afghanistan,5419,Yield,116,Potatoes,2017,2017,hg/ha,129868
+QC,Crops,2,Afghanistan,5419,Yield,116,Potatoes,2018,2018,hg/ha,128868
+QC,Crops,2,Afghanistan,5419,Yield,116,Potatoes,2019,2019,hg/ha,132368
+QC,Crops,2,Afghanistan,5419,Yield,116,Potatoes,2020,2020,hg/ha,132459
+QC,Crops,2,Afghanistan,5419,Yield,116,Potatoes,2021,2021,hg/ha,126768
+QC,Crops,2,Afghanistan,5419,Yield,116,Potatoes,2022,2022,hg/ha,139868
 QC,Crops,2,Afghanistan,5419,Yield,27,"Rice, paddy",1961,1961,hg/ha,15190
 QC,Crops,2,Afghanistan,5419,Yield,27,"Rice, paddy",1962,1962,hg/ha,15190
 QC,Crops,2,Afghanistan,5419,Yield,27,"Rice, paddy",1963,1963,hg/ha,15190
@@ -167,6 +179,12 @@ QC,Crops,2,Afghanistan,5419,Yield,27,"Rice, paddy",2013,2013,hg/ha,24980
 QC,Crops,2,Afghanistan,5419,Yield,27,"Rice, paddy",2014,2014,hg/ha,24409
 QC,Crops,2,Afghanistan,5419,Yield,27,"Rice, paddy",2015,2015,hg/ha,25000
 QC,Crops,2,Afghanistan,5419,Yield,27,"Rice, paddy",2016,2016,hg/ha,29963
+QC,Crops,2,Afghanistan,5419,Yield,27,"Rice, paddy",2017,2017,hg/ha,28963
+QC,Crops,2,Afghanistan,5419,Yield,27,"Rice, paddy",2018,2018,hg/ha,28363
+QC,Crops,2,Afghanistan,5419,Yield,27,"Rice, paddy",2019,2019,hg/ha,29450
+QC,Crops,2,Afghanistan,5419,Yield,27,"Rice, paddy",2020,2020,hg/ha,28965
+QC,Crops,2,Afghanistan,5419,Yield,27,"Rice, paddy",2021,2021,hg/ha,30250
+QC,Crops,2,Afghanistan,5419,Yield,27,"Rice, paddy",2022,2022,hg/ha,32353
 QC,Crops,2,Afghanistan,5419,Yield,15,Wheat,1961,1961,hg/ha,10220
 QC,Crops,2,Afghanistan,5419,Yield,15,Wheat,1962,1962,hg/ha,9735
 QC,Crops,2,Afghanistan,5419,Yield,15,Wheat,1963,1963,hg/ha,8317
@@ -223,6 +241,12 @@ QC,Crops,2,Afghanistan,5419,Yield,15,Wheat,2013,2013,hg/ha,20248
 QC,Crops,2,Afghanistan,5419,Yield,15,Wheat,2014,2014,hg/ha,20237
 QC,Crops,2,Afghanistan,5419,Yield,15,Wheat,2015,2015,hg/ha,21959
 QC,Crops,2,Afghanistan,5419,Yield,15,Wheat,2016,2016,hg/ha,19803
+QC,Crops,2,Afghanistan,5419,Yield,15,Wheat,2017,2017,hg/ha,20248
+QC,Crops,2,Afghanistan,5419,Yield,15,Wheat,2018,2018,hg/ha,20237
+QC,Crops,2,Afghanistan,5419,Yield,15,Wheat,2019,2019,hg/ha,21959
+QC,Crops,2,Afghanistan,5419,Yield,15,Wheat,2020,2020,hg/ha,20248
+QC,Crops,2,Afghanistan,5419,Yield,15,Wheat,2021,2021,hg/ha,20851
+QC,Crops,2,Afghanistan,5419,Yield,15,Wheat,2022,2022,hg/ha,21959
 QC,Crops,3,Albania,5419,Yield,56,Maize,1961,1961,hg/ha,9541
 QC,Crops,3,Albania,5419,Yield,56,Maize,1962,1962,hg/ha,9079
 QC,Crops,3,Albania,5419,Yield,56,Maize,1963,1963,hg/ha,11924
@@ -279,6 +303,12 @@ QC,Crops,3,Albania,5419,Yield,56,Maize,2013,2013,hg/ha,69533
 QC,Crops,3,Albania,5419,Yield,56,Maize,2014,2014,hg/ha,69091
 QC,Crops,3,Albania,5419,Yield,56,Maize,2015,2015,hg/ha,69597
 QC,Crops,3,Albania,5419,Yield,56,Maize,2016,2016,hg/ha,64877
+QC,Crops,3,Albania,5419,Yield,56,Maize,2017,2017,hg/ha,66790
+QC,Crops,3,Albania,5419,Yield,56,Maize,2018,2018,hg/ha,65869
+QC,Crops,3,Albania,5419,Yield,56,Maize,2019,2019,hg/ha,67290
+QC,Crops,3,Albania,5419,Yield,56,Maize,2020,2020,hg/ha,69533
+QC,Crops,3,Albania,5419,Yield,56,Maize,2021,2021,hg/ha,69091
+QC,Crops,3,Albania,5419,Yield,56,Maize,2022,2022,hg/ha,69597
 QC,Crops,3,Albania,5419,Yield,116,Potatoes,1961,1961,hg/ha,72134
 QC,Crops,3,Albania,5419,Yield,116,Potatoes,1962,1962,hg/ha,54341
 QC,Crops,3,Albania,5419,Yield,116,Potatoes,1963,1963,hg/ha,76758
@@ -335,6 +365,12 @@ QC,Crops,3,Albania,5419,Yield,116,Potatoes,2013,2013,hg/ha,260110
 QC,Crops,3,Albania,5419,Yield,116,Potatoes,2014,2014,hg/ha,250000
 QC,Crops,3,Albania,5419,Yield,116,Potatoes,2015,2015,hg/ha,242574
 QC,Crops,3,Albania,5419,Yield,116,Potatoes,2016,2016,hg/ha,245894
+QC,Crops,3,Albania,5419,Yield,116,Potatoes,2017,2017,hg/ha,251294
+QC,Crops,3,Albania,5419,Yield,116,Potatoes,2018,2018,hg/ha,245894
+QC,Crops,3,Albania,5419,Yield,116,Potatoes,2019,2019,hg/ha,265894
+QC,Crops,3,Albania,5419,Yield,116,Potatoes,2020,2020,hg/ha,252894
+QC,Crops,3,Albania,5419,Yield,116,Potatoes,2021,2021,hg/ha,259894
+QC,Crops,3,Albania,5419,Yield,116,Potatoes,2022,2022,hg/ha,271234
 QC,Crops,3,Albania,5419,Yield,27,"Rice, paddy",1961,1961,hg/ha,15514
 QC,Crops,3,Albania,5419,Yield,27,"Rice, paddy",1962,1962,hg/ha,16675
 QC,Crops,3,Albania,5419,Yield,27,"Rice, paddy",1963,1963,hg/ha,23599
@@ -493,6 +529,12 @@ QC,Crops,3,Albania,5419,Yield,15,Wheat,2013,2013,hg/ha,41292
 QC,Crops,3,Albania,5419,Yield,15,Wheat,2014,2014,hg/ha,40001
 QC,Crops,3,Albania,5419,Yield,15,Wheat,2015,2015,hg/ha,39511
 QC,Crops,3,Albania,5419,Yield,15,Wheat,2016,2016,hg/ha,39000
+QC,Crops,3,Albania,5419,Yield,15,Wheat,2017,2017,hg/ha,41096
+QC,Crops,3,Albania,5419,Yield,15,Wheat,2018,2018,hg/ha,41292
+QC,Crops,3,Albania,5419,Yield,15,Wheat,2019,2019,hg/ha,40001
+QC,Crops,3,Albania,5419,Yield,15,Wheat,2020,2020,hg/ha,40229
+QC,Crops,3,Albania,5419,Yield,15,Wheat,2021,2021,hg/ha,39905
+QC,Crops,3,Albania,5419,Yield,15,Wheat,2022,2022,hg/ha,42301
 QC,Crops,4,Algeria,5419,Yield,56,Maize,1961,1961,hg/ha,9746
 QC,Crops,4,Algeria,5419,Yield,56,Maize,1962,1962,hg/ha,5400
 QC,Crops,4,Algeria,5419,Yield,56,Maize,1963,1963,hg/ha,10716
@@ -549,6 +591,12 @@ QC,Crops,4,Algeria,5419,Yield,56,Maize,2013,2013,hg/ha,33649
 QC,Crops,4,Algeria,5419,Yield,56,Maize,2014,2014,hg/ha,26165
 QC,Crops,4,Algeria,5419,Yield,56,Maize,2015,2015,hg/ha,39242
 QC,Crops,4,Algeria,5419,Yield,56,Maize,2016,2016,hg/ha,45122
+QC,Crops,4,Algeria,5419,Yield,56,Maize,2017,2017,hg/ha,44822
+QC,Crops,4,Algeria,5419,Yield,56,Maize,2018,2018,hg/ha,45322
+QC,Crops,4,Algeria,5419,Yield,56,Maize,2019,2019,hg/ha,44922
+QC,Crops,4,Algeria,5419,Yield,56,Maize,2020,2020,hg/ha,45122
+QC,Crops,4,Algeria,5419,Yield,56,Maize,2021,2021,hg/ha,46022
+QC,Crops,4,Algeria,5419,Yield,56,Maize,2022,2022,hg/ha,46522
 QC,Crops,4,Algeria,5419,Yield,116,Potatoes,1961,1961,hg/ha,106217
 QC,Crops,4,Algeria,5419,Yield,116,Potatoes,1962,1962,hg/ha,100000
 QC,Crops,4,Algeria,5419,Yield,116,Potatoes,1963,1963,hg/ha,92466
@@ -605,6 +653,12 @@ QC,Crops,4,Algeria,5419,Yield,116,Potatoes,2013,2013,hg/ha,303218
 QC,Crops,4,Algeria,5419,Yield,116,Potatoes,2014,2014,hg/ha,299247
 QC,Crops,4,Algeria,5419,Yield,116,Potatoes,2015,2015,hg/ha,296099
 QC,Crops,4,Algeria,5419,Yield,116,Potatoes,2016,2016,hg/ha,306198
+QC,Crops,4,Algeria,5419,Yield,116,Potatoes,2017,2017,hg/ha,292806
+QC,Crops,4,Algeria,5419,Yield,116,Potatoes,2018,2018,hg/ha,304291
+QC,Crops,4,Algeria,5419,Yield,116,Potatoes,2019,2019,hg/ha,303218
+QC,Crops,4,Algeria,5419,Yield,116,Potatoes,2020,2020,hg/ha,299247
+QC,Crops,4,Algeria,5419,Yield,116,Potatoes,2021,2021,hg/ha,306198
+QC,Crops,4,Algeria,5419,Yield,116,Potatoes,2022,2022,hg/ha,312398
 QC,Crops,4,Algeria,5419,Yield,27,"Rice, paddy",1961,1961,hg/ha,45512
 QC,Crops,4,Algeria,5419,Yield,27,"Rice, paddy",1962,1962,hg/ha,40000
 QC,Crops,4,Algeria,5419,Yield,27,"Rice, paddy",1963,1963,hg/ha,44041
@@ -661,6 +715,12 @@ QC,Crops,4,Algeria,5419,Yield,27,"Rice, paddy",2013,2013,hg/ha,17778
 QC,Crops,4,Algeria,5419,Yield,27,"Rice, paddy",2014,2014,hg/ha,17778
 QC,Crops,4,Algeria,5419,Yield,27,"Rice, paddy",2015,2015,hg/ha,17579
 QC,Crops,4,Algeria,5419,Yield,27,"Rice, paddy",2016,2016,hg/ha,17502
+QC,Crops,4,Algeria,5419,Yield,27,"Rice, paddy",2017,2017,hg/ha,17652
+QC,Crops,4,Algeria,5419,Yield,27,"Rice, paddy",2018,2018,hg/ha,17692
+QC,Crops,4,Algeria,5419,Yield,27,"Rice, paddy",2019,2019,hg/ha,17702
+QC,Crops,4,Algeria,5419,Yield,27,"Rice, paddy",2020,2020,hg/ha,17621
+QC,Crops,4,Algeria,5419,Yield,27,"Rice, paddy",2021,2021,hg/ha,17702
+QC,Crops,4,Algeria,5419,Yield,27,"Rice, paddy",2022,2022,hg/ha,17831
 QC,Crops,4,Algeria,5419,Yield,83,Sorghum,1961,1961,hg/ha,4526
 QC,Crops,4,Algeria,5419,Yield,83,Sorghum,1962,1962,hg/ha,6667
 QC,Crops,4,Algeria,5419,Yield,83,Sorghum,1963,1963,hg/ha,9511
@@ -716,6 +776,12 @@ QC,Crops,4,Algeria,5419,Yield,83,Sorghum,2013,2013,hg/ha,60000
 QC,Crops,4,Algeria,5419,Yield,83,Sorghum,2014,2014,hg/ha,62000
 QC,Crops,4,Algeria,5419,Yield,83,Sorghum,2015,2015,hg/ha,121689
 QC,Crops,4,Algeria,5419,Yield,83,Sorghum,2016,2016,hg/ha,255800
+QC,Crops,4,Algeria,5419,Yield,83,Sorghum,2017,2017,hg/ha,253800
+QC,Crops,4,Algeria,5419,Yield,83,Sorghum,2018,2018,hg/ha,245800
+QC,Crops,4,Algeria,5419,Yield,83,Sorghum,2019,2019,hg/ha,251800
+QC,Crops,4,Algeria,5419,Yield,83,Sorghum,2020,2020,hg/ha,261000
+QC,Crops,4,Algeria,5419,Yield,83,Sorghum,2021,2021,hg/ha,259800
+QC,Crops,4,Algeria,5419,Yield,83,Sorghum,2022,2022,hg/ha,266500
 QC,Crops,4,Algeria,5419,Yield,15,Wheat,1961,1961,hg/ha,4060
 QC,Crops,4,Algeria,5419,Yield,15,Wheat,1962,1962,hg/ha,8045
 QC,Crops,4,Algeria,5419,Yield,15,Wheat,1963,1963,hg/ha,8326
@@ -772,6 +838,12 @@ QC,Crops,4,Algeria,5419,Yield,15,Wheat,2013,2013,hg/ha,19100
 QC,Crops,4,Algeria,5419,Yield,15,Wheat,2014,2014,hg/ha,14753
 QC,Crops,4,Algeria,5419,Yield,15,Wheat,2015,2015,hg/ha,14640
 QC,Crops,4,Algeria,5419,Yield,15,Wheat,2016,2016,hg/ha,16912
+QC,Crops,4,Algeria,5419,Yield,15,Wheat,2017,2017,hg/ha,17405
+QC,Crops,4,Algeria,5419,Yield,15,Wheat,2018,2018,hg/ha,17639
+QC,Crops,4,Algeria,5419,Yield,15,Wheat,2019,2019,hg/ha,19100
+QC,Crops,4,Algeria,5419,Yield,15,Wheat,2020,2020,hg/ha,18712
+QC,Crops,4,Algeria,5419,Yield,15,Wheat,2021,2021,hg/ha,17912
+QC,Crops,4,Algeria,5419,Yield,15,Wheat,2022,2022,hg/ha,19612
 QC,Crops,5,American Samoa,5419,Yield,125,Cassava,1961,1961,hg/ha,133333
 QC,Crops,5,American Samoa,5419,Yield,125,Cassava,1962,1962,hg/ha,133333
 QC,Crops,5,American Samoa,5419,Yield,125,Cassava,1963,1963,hg/ha,136667
@@ -828,6 +900,12 @@ QC,Crops,5,American Samoa,5419,Yield,125,Cassava,2013,2013,hg/ha,56667
 QC,Crops,5,American Samoa,5419,Yield,125,Cassava,2014,2014,hg/ha,55876
 QC,Crops,5,American Samoa,5419,Yield,125,Cassava,2015,2015,hg/ha,56378
 QC,Crops,5,American Samoa,5419,Yield,125,Cassava,2016,2016,hg/ha,57225
+QC,Crops,5,American Samoa,5419,Yield,125,Cassava,2017,2017,hg/ha,58361
+QC,Crops,5,American Samoa,5419,Yield,125,Cassava,2018,2018,hg/ha,58106
+QC,Crops,5,American Samoa,5419,Yield,125,Cassava,2019,2019,hg/ha,57793
+QC,Crops,5,American Samoa,5419,Yield,125,Cassava,2020,2020,hg/ha,57246
+QC,Crops,5,American Samoa,5419,Yield,125,Cassava,2021,2021,hg/ha,56661
+QC,Crops,5,American Samoa,5419,Yield,125,Cassava,2022,2022,hg/ha,56111
 QC,Crops,5,American Samoa,5419,Yield,137,Yams,1961,1961,hg/ha,30000
 QC,Crops,5,American Samoa,5419,Yield,137,Yams,1962,1962,hg/ha,31000
 QC,Crops,5,American Samoa,5419,Yield,137,Yams,1963,1963,hg/ha,25000
@@ -884,6 +962,12 @@ QC,Crops,5,American Samoa,5419,Yield,137,Yams,2013,2013,hg/ha,39216
 QC,Crops,5,American Samoa,5419,Yield,137,Yams,2014,2014,hg/ha,37262
 QC,Crops,5,American Samoa,5419,Yield,137,Yams,2015,2015,hg/ha,35159
 QC,Crops,5,American Samoa,5419,Yield,137,Yams,2016,2016,hg/ha,36022
+QC,Crops,5,American Samoa,5419,Yield,137,Yams,2017,2017,hg/ha,34910
+QC,Crops,5,American Samoa,5419,Yield,137,Yams,2018,2018,hg/ha,36000
+QC,Crops,5,American Samoa,5419,Yield,137,Yams,2019,2019,hg/ha,39216
+QC,Crops,5,American Samoa,5419,Yield,137,Yams,2020,2020,hg/ha,37262
+QC,Crops,5,American Samoa,5419,Yield,137,Yams,2021,2021,hg/ha,37922
+QC,Crops,5,American Samoa,5419,Yield,137,Yams,2022,2022,hg/ha,39822
 QC,Crops,7,Angola,5419,Yield,125,Cassava,1961,1961,hg/ha,35714
 QC,Crops,7,Angola,5419,Yield,125,Cassava,1962,1962,hg/ha,31875
 QC,Crops,7,Angola,5419,Yield,125,Cassava,1963,1963,hg/ha,32500
@@ -940,6 +1024,12 @@ QC,Crops,7,Angola,5419,Yield,125,Cassava,2013,2013,hg/ha,140517
 QC,Crops,7,Angola,5419,Yield,125,Cassava,2014,2014,hg/ha,101060
 QC,Crops,7,Angola,5419,Yield,125,Cassava,2015,2015,hg/ha,101331
 QC,Crops,7,Angola,5419,Yield,125,Cassava,2016,2016,hg/ha,108518
+QC,Crops,7,Angola,5419,Yield,125,Cassava,2017,2017,hg/ha,118518
+QC,Crops,7,Angola,5419,Yield,125,Cassava,2018,2018,hg/ha,128518
+QC,Crops,7,Angola,5419,Yield,125,Cassava,2019,2019,hg/ha,138518
+QC,Crops,7,Angola,5419,Yield,125,Cassava,2020,2020,hg/ha,128518
+QC,Crops,7,Angola,5419,Yield,125,Cassava,2021,2021,hg/ha,129920
+QC,Crops,7,Angola,5419,Yield,125,Cassava,2022,2022,hg/ha,149518
 QC,Crops,7,Angola,5419,Yield,56,Maize,1961,1961,hg/ha,8113
 QC,Crops,7,Angola,5419,Yield,56,Maize,1962,1962,hg/ha,8113
 QC,Crops,7,Angola,5419,Yield,56,Maize,1963,1963,hg/ha,7692
@@ -996,6 +1086,12 @@ QC,Crops,7,Angola,5419,Yield,56,Maize,2013,2013,hg/ha,9467
 QC,Crops,7,Angola,5419,Yield,56,Maize,2014,2014,hg/ha,10386
 QC,Crops,7,Angola,5419,Yield,56,Maize,2015,2015,hg/ha,11234
 QC,Crops,7,Angola,5419,Yield,56,Maize,2016,2016,hg/ha,10789
+QC,Crops,7,Angola,5419,Yield,56,Maize,2017,2017,hg/ha,11289
+QC,Crops,7,Angola,5419,Yield,56,Maize,2018,2018,hg/ha,12789
+QC,Crops,7,Angola,5419,Yield,56,Maize,2019,2019,hg/ha,10989
+QC,Crops,7,Angola,5419,Yield,56,Maize,2020,2020,hg/ha,9789
+QC,Crops,7,Angola,5419,Yield,56,Maize,2021,2021,hg/ha,12089
+QC,Crops,7,Angola,5419,Yield,56,Maize,2022,2022,hg/ha,13929
 QC,Crops,7,Angola,5419,Yield,116,Potatoes,1961,1961,hg/ha,50000
 QC,Crops,7,Angola,5419,Yield,116,Potatoes,1962,1962,hg/ha,50000
 QC,Crops,7,Angola,5419,Yield,116,Potatoes,1963,1963,hg/ha,53191
@@ -1052,6 +1148,12 @@ QC,Crops,7,Angola,5419,Yield,116,Potatoes,2013,2013,hg/ha,63303
 QC,Crops,7,Angola,5419,Yield,116,Potatoes,2014,2014,hg/ha,63239
 QC,Crops,7,Angola,5419,Yield,116,Potatoes,2015,2015,hg/ha,62866
 QC,Crops,7,Angola,5419,Yield,116,Potatoes,2016,2016,hg/ha,58913
+QC,Crops,7,Angola,5419,Yield,116,Potatoes,2017,2017,hg/ha,60913
+QC,Crops,7,Angola,5419,Yield,116,Potatoes,2018,2018,hg/ha,59913
+QC,Crops,7,Angola,5419,Yield,116,Potatoes,2019,2019,hg/ha,63913
+QC,Crops,7,Angola,5419,Yield,116,Potatoes,2020,2020,hg/ha,62913
+QC,Crops,7,Angola,5419,Yield,116,Potatoes,2021,2021,hg/ha,68913
+QC,Crops,7,Angola,5419,Yield,116,Potatoes,2022,2022,hg/ha,70913
 QC,Crops,7,Angola,5419,Yield,27,"Rice, paddy",1961,1961,hg/ha,11600
 QC,Crops,7,Angola,5419,Yield,27,"Rice, paddy",1962,1962,hg/ha,12105
 QC,Crops,7,Angola,5419,Yield,27,"Rice, paddy",1963,1963,hg/ha,12500
@@ -1108,6 +1210,12 @@ QC,Crops,7,Angola,5419,Yield,27,"Rice, paddy",2013,2013,hg/ha,12744
 QC,Crops,7,Angola,5419,Yield,27,"Rice, paddy",2014,2014,hg/ha,14064
 QC,Crops,7,Angola,5419,Yield,27,"Rice, paddy",2015,2015,hg/ha,15068
 QC,Crops,7,Angola,5419,Yield,27,"Rice, paddy",2016,2016,hg/ha,15477
+QC,Crops,7,Angola,5419,Yield,27,"Rice, paddy",2017,2017,hg/ha,16477
+QC,Crops,7,Angola,5419,Yield,27,"Rice, paddy",2018,2018,hg/ha,17477
+QC,Crops,7,Angola,5419,Yield,27,"Rice, paddy",2019,2019,hg/ha,19477
+QC,Crops,7,Angola,5419,Yield,27,"Rice, paddy",2020,2020,hg/ha,18477
+QC,Crops,7,Angola,5419,Yield,27,"Rice, paddy",2021,2021,hg/ha,20477
+QC,Crops,7,Angola,5419,Yield,27,"Rice, paddy",2022,2022,hg/ha,22477
 QC,Crops,7,Angola,5419,Yield,83,Sorghum,2000,2000,hg/ha,3333
 QC,Crops,7,Angola,5419,Yield,83,Sorghum,2001,2001,hg/ha,3571
 QC,Crops,7,Angola,5419,Yield,83,Sorghum,2002,2002,hg/ha,3400
@@ -1142,6 +1250,12 @@ QC,Crops,7,Angola,5419,Yield,236,Soybeans,2013,2013,hg/ha,4405
 QC,Crops,7,Angola,5419,Yield,236,Soybeans,2014,2014,hg/ha,5840
 QC,Crops,7,Angola,5419,Yield,236,Soybeans,2015,2015,hg/ha,6513
 QC,Crops,7,Angola,5419,Yield,236,Soybeans,2016,2016,hg/ha,6175
+QC,Crops,7,Angola,5419,Yield,236,Soybeans,2017,2017,hg/ha,8175
+QC,Crops,7,Angola,5419,Yield,236,Soybeans,2018,2018,hg/ha,10175
+QC,Crops,7,Angola,5419,Yield,236,Soybeans,2019,2019,hg/ha,9175
+QC,Crops,7,Angola,5419,Yield,236,Soybeans,2020,2020,hg/ha,8175
+QC,Crops,7,Angola,5419,Yield,236,Soybeans,2021,2021,hg/ha,10575
+QC,Crops,7,Angola,5419,Yield,236,Soybeans,2022,2022,hg/ha,11175
 QC,Crops,7,Angola,5419,Yield,122,Sweet potatoes,1961,1961,hg/ha,60000
 QC,Crops,7,Angola,5419,Yield,122,Sweet potatoes,1962,1962,hg/ha,66667
 QC,Crops,7,Angola,5419,Yield,122,Sweet potatoes,1963,1963,hg/ha,73529
@@ -1198,6 +1312,12 @@ QC,Crops,7,Angola,5419,Yield,122,Sweet potatoes,2013,2013,hg/ha,73409
 QC,Crops,7,Angola,5419,Yield,122,Sweet potatoes,2014,2014,hg/ha,114342
 QC,Crops,7,Angola,5419,Yield,122,Sweet potatoes,2015,2015,hg/ha,115174
 QC,Crops,7,Angola,5419,Yield,122,Sweet potatoes,2016,2016,hg/ha,98432
+QC,Crops,7,Angola,5419,Yield,122,Sweet potatoes,2017,2017,hg/ha,108432
+QC,Crops,7,Angola,5419,Yield,122,Sweet potatoes,2018,2018,hg/ha,102432
+QC,Crops,7,Angola,5419,Yield,122,Sweet potatoes,2019,2019,hg/ha,98432
+QC,Crops,7,Angola,5419,Yield,122,Sweet potatoes,2020,2020,hg/ha,114342
+QC,Crops,7,Angola,5419,Yield,122,Sweet potatoes,2021,2021,hg/ha,115174
+QC,Crops,7,Angola,5419,Yield,122,Sweet potatoes,2022,2022,hg/ha,119432
 QC,Crops,7,Angola,5419,Yield,15,Wheat,1961,1961,hg/ha,11111
 QC,Crops,7,Angola,5419,Yield,15,Wheat,1962,1962,hg/ha,11111
 QC,Crops,7,Angola,5419,Yield,15,Wheat,1963,1963,hg/ha,11111
@@ -1254,6 +1374,12 @@ QC,Crops,7,Angola,5419,Yield,15,Wheat,2013,2013,hg/ha,9022
 QC,Crops,7,Angola,5419,Yield,15,Wheat,2014,2014,hg/ha,8264
 QC,Crops,7,Angola,5419,Yield,15,Wheat,2015,2015,hg/ha,7766
 QC,Crops,7,Angola,5419,Yield,15,Wheat,2016,2016,hg/ha,7269
+QC,Crops,7,Angola,5419,Yield,15,Wheat,2017,2017,hg/ha,7800
+QC,Crops,7,Angola,5419,Yield,15,Wheat,2018,2018,hg/ha,7656
+QC,Crops,7,Angola,5419,Yield,15,Wheat,2019,2019,hg/ha,8256
+QC,Crops,7,Angola,5419,Yield,15,Wheat,2020,2020,hg/ha,8568
+QC,Crops,7,Angola,5419,Yield,15,Wheat,2021,2021,hg/ha,7990
+QC,Crops,7,Angola,5419,Yield,15,Wheat,2022,2022,hg/ha,8320
 QC,Crops,8,Antigua and Barbuda,5419,Yield,125,Cassava,1961,1961,hg/ha,33333
 QC,Crops,8,Antigua and Barbuda,5419,Yield,125,Cassava,1962,1962,hg/ha,30000
 QC,Crops,8,Antigua and Barbuda,5419,Yield,125,Cassava,1963,1963,hg/ha,28000
@@ -1310,6 +1436,12 @@ QC,Crops,8,Antigua and Barbuda,5419,Yield,125,Cassava,2013,2013,hg/ha,52096
 QC,Crops,8,Antigua and Barbuda,5419,Yield,125,Cassava,2014,2014,hg/ha,51993
 QC,Crops,8,Antigua and Barbuda,5419,Yield,125,Cassava,2015,2015,hg/ha,53321
 QC,Crops,8,Antigua and Barbuda,5419,Yield,125,Cassava,2016,2016,hg/ha,54164
+QC,Crops,8,Antigua and Barbuda,5419,Yield,125,Cassava,2017,2017,hg/ha,54986
+QC,Crops,8,Antigua and Barbuda,5419,Yield,125,Cassava,2018,2018,hg/ha,55680
+QC,Crops,8,Antigua and Barbuda,5419,Yield,125,Cassava,2019,2019,hg/ha,57658
+QC,Crops,8,Antigua and Barbuda,5419,Yield,125,Cassava,2020,2020,hg/ha,54620
+QC,Crops,8,Antigua and Barbuda,5419,Yield,125,Cassava,2021,2021,hg/ha,58420
+QC,Crops,8,Antigua and Barbuda,5419,Yield,125,Cassava,2022,2022,hg/ha,57982
 QC,Crops,8,Antigua and Barbuda,5419,Yield,56,Maize,1966,1966,hg/ha,25000
 QC,Crops,8,Antigua and Barbuda,5419,Yield,56,Maize,1967,1967,hg/ha,22500
 QC,Crops,8,Antigua and Barbuda,5419,Yield,56,Maize,1968,1968,hg/ha,25000
@@ -1361,6 +1493,12 @@ QC,Crops,8,Antigua and Barbuda,5419,Yield,56,Maize,2013,2013,hg/ha,15980
 QC,Crops,8,Antigua and Barbuda,5419,Yield,56,Maize,2014,2014,hg/ha,15962
 QC,Crops,8,Antigua and Barbuda,5419,Yield,56,Maize,2015,2015,hg/ha,15944
 QC,Crops,8,Antigua and Barbuda,5419,Yield,56,Maize,2016,2016,hg/ha,15925
+QC,Crops,8,Antigua and Barbuda,5419,Yield,56,Maize,2017,2017,hg/ha,16320
+QC,Crops,8,Antigua and Barbuda,5419,Yield,56,Maize,2018,2018,hg/ha,16950
+QC,Crops,8,Antigua and Barbuda,5419,Yield,56,Maize,2019,2019,hg/ha,17650
+QC,Crops,8,Antigua and Barbuda,5419,Yield,56,Maize,2020,2020,hg/ha,15680
+QC,Crops,8,Antigua and Barbuda,5419,Yield,56,Maize,2021,2021,hg/ha,17320
+QC,Crops,8,Antigua and Barbuda,5419,Yield,56,Maize,2022,2022,hg/ha,18690
 QC,Crops,8,Antigua and Barbuda,5419,Yield,122,Sweet potatoes,1961,1961,hg/ha,35333
 QC,Crops,8,Antigua and Barbuda,5419,Yield,122,Sweet potatoes,1962,1962,hg/ha,36000
 QC,Crops,8,Antigua and Barbuda,5419,Yield,122,Sweet potatoes,1963,1963,hg/ha,36667
@@ -1417,6 +1555,12 @@ QC,Crops,8,Antigua and Barbuda,5419,Yield,122,Sweet potatoes,2013,2013,hg/ha,637
 QC,Crops,8,Antigua and Barbuda,5419,Yield,122,Sweet potatoes,2014,2014,hg/ha,63106
 QC,Crops,8,Antigua and Barbuda,5419,Yield,122,Sweet potatoes,2015,2015,hg/ha,63399
 QC,Crops,8,Antigua and Barbuda,5419,Yield,122,Sweet potatoes,2016,2016,hg/ha,63598
+QC,Crops,8,Antigua and Barbuda,5419,Yield,122,Sweet potatoes,2017,2017,hg/ha,63950
+QC,Crops,8,Antigua and Barbuda,5419,Yield,122,Sweet potatoes,2018,2018,hg/ha,64580
+QC,Crops,8,Antigua and Barbuda,5419,Yield,122,Sweet potatoes,2019,2019,hg/ha,65890
+QC,Crops,8,Antigua and Barbuda,5419,Yield,122,Sweet potatoes,2020,2020,hg/ha,62890
+QC,Crops,8,Antigua and Barbuda,5419,Yield,122,Sweet potatoes,2021,2021,hg/ha,66340
+QC,Crops,8,Antigua and Barbuda,5419,Yield,122,Sweet potatoes,2022,2022,hg/ha,67120
 QC,Crops,8,Antigua and Barbuda,5419,Yield,137,Yams,1961,1961,hg/ha,25000
 QC,Crops,8,Antigua and Barbuda,5419,Yield,137,Yams,1962,1962,hg/ha,25000
 QC,Crops,8,Antigua and Barbuda,5419,Yield,137,Yams,1963,1963,hg/ha,25000
@@ -1473,6 +1617,12 @@ QC,Crops,8,Antigua and Barbuda,5419,Yield,137,Yams,2013,2013,hg/ha,32707
 QC,Crops,8,Antigua and Barbuda,5419,Yield,137,Yams,2014,2014,hg/ha,33778
 QC,Crops,8,Antigua and Barbuda,5419,Yield,137,Yams,2015,2015,hg/ha,33987
 QC,Crops,8,Antigua and Barbuda,5419,Yield,137,Yams,2016,2016,hg/ha,33911
+QC,Crops,8,Antigua and Barbuda,5419,Yield,137,Yams,2017,2017,hg/ha,34560
+QC,Crops,8,Antigua and Barbuda,5419,Yield,137,Yams,2018,2018,hg/ha,35302
+QC,Crops,8,Antigua and Barbuda,5419,Yield,137,Yams,2019,2019,hg/ha,32562
+QC,Crops,8,Antigua and Barbuda,5419,Yield,137,Yams,2020,2020,hg/ha,36458
+QC,Crops,8,Antigua and Barbuda,5419,Yield,137,Yams,2021,2021,hg/ha,37564
+QC,Crops,8,Antigua and Barbuda,5419,Yield,137,Yams,2022,2022,hg/ha,37998
 QC,Crops,9,Argentina,5419,Yield,125,Cassava,1961,1961,hg/ha,125810
 QC,Crops,9,Argentina,5419,Yield,125,Cassava,1962,1962,hg/ha,121543
 QC,Crops,9,Argentina,5419,Yield,125,Cassava,1963,1963,hg/ha,121185
@@ -1529,6 +1679,12 @@ QC,Crops,9,Argentina,5419,Yield,125,Cassava,2013,2013,hg/ha,99459
 QC,Crops,9,Argentina,5419,Yield,125,Cassava,2014,2014,hg/ha,99804
 QC,Crops,9,Argentina,5419,Yield,125,Cassava,2015,2015,hg/ha,100147
 QC,Crops,9,Argentina,5419,Yield,125,Cassava,2016,2016,hg/ha,100127
+QC,Crops,9,Argentina,5419,Yield,125,Cassava,2017,2017,hg/ha,101230
+QC,Crops,9,Argentina,5419,Yield,125,Cassava,2018,2018,hg/ha,102365
+QC,Crops,9,Argentina,5419,Yield,125,Cassava,2019,2019,hg/ha,105908
+QC,Crops,9,Argentina,5419,Yield,125,Cassava,2020,2020,hg/ha,102562
+QC,Crops,9,Argentina,5419,Yield,125,Cassava,2021,2021,hg/ha,104560
+QC,Crops,9,Argentina,5419,Yield,125,Cassava,2022,2022,hg/ha,105326
 QC,Crops,9,Argentina,5419,Yield,56,Maize,1961,1961,hg/ha,17672
 QC,Crops,9,Argentina,5419,Yield,56,Maize,1962,1962,hg/ha,18936
 QC,Crops,9,Argentina,5419,Yield,56,Maize,1963,1963,hg/ha,16481
@@ -1585,6 +1741,12 @@ QC,Crops,9,Argentina,5419,Yield,56,Maize,2013,2013,hg/ha,66037
 QC,Crops,9,Argentina,5419,Yield,56,Maize,2014,2014,hg/ha,68409
 QC,Crops,9,Argentina,5419,Yield,56,Maize,2015,2015,hg/ha,73090
 QC,Crops,9,Argentina,5419,Yield,56,Maize,2016,2016,hg/ha,74427
+QC,Crops,9,Argentina,5419,Yield,56,Maize,2017,2017,hg/ha,75652
+QC,Crops,9,Argentina,5419,Yield,56,Maize,2018,2018,hg/ha,73650
+QC,Crops,9,Argentina,5419,Yield,56,Maize,2019,2019,hg/ha,74427
+QC,Crops,9,Argentina,5419,Yield,56,Maize,2020,2020,hg/ha,75500
+QC,Crops,9,Argentina,5419,Yield,56,Maize,2021,2021,hg/ha,76052
+QC,Crops,9,Argentina,5419,Yield,56,Maize,2022,2022,hg/ha,76870
 QC,Crops,9,Argentina,5419,Yield,116,Potatoes,1961,1961,hg/ha,102110
 QC,Crops,9,Argentina,5419,Yield,116,Potatoes,1962,1962,hg/ha,82576
 QC,Crops,9,Argentina,5419,Yield,116,Potatoes,1963,1963,hg/ha,87699
@@ -1641,6 +1803,12 @@ QC,Crops,9,Argentina,5419,Yield,116,Potatoes,2013,2013,hg/ha,288984
 QC,Crops,9,Argentina,5419,Yield,116,Potatoes,2014,2014,hg/ha,290148
 QC,Crops,9,Argentina,5419,Yield,116,Potatoes,2015,2015,hg/ha,291312
 QC,Crops,9,Argentina,5419,Yield,116,Potatoes,2016,2016,hg/ha,292476
+QC,Crops,9,Argentina,5419,Yield,116,Potatoes,2017,2017,hg/ha,302476
+QC,Crops,9,Argentina,5419,Yield,116,Potatoes,2018,2018,hg/ha,310520
+QC,Crops,9,Argentina,5419,Yield,116,Potatoes,2019,2019,hg/ha,293456
+QC,Crops,9,Argentina,5419,Yield,116,Potatoes,2020,2020,hg/ha,325685
+QC,Crops,9,Argentina,5419,Yield,116,Potatoes,2021,2021,hg/ha,335654
+QC,Crops,9,Argentina,5419,Yield,116,Potatoes,2022,2022,hg/ha,365421
 QC,Crops,9,Argentina,5419,Yield,27,"Rice, paddy",1961,1961,hg/ha,32391
 QC,Crops,9,Argentina,5419,Yield,27,"Rice, paddy",1962,1962,hg/ha,34357
 QC,Crops,9,Argentina,5419,Yield,27,"Rice, paddy",1963,1963,hg/ha,34073
@@ -1697,6 +1865,12 @@ QC,Crops,9,Argentina,5419,Yield,27,"Rice, paddy",2013,2013,hg/ha,67187
 QC,Crops,9,Argentina,5419,Yield,27,"Rice, paddy",2014,2014,hg/ha,65042
 QC,Crops,9,Argentina,5419,Yield,27,"Rice, paddy",2015,2015,hg/ha,66989
 QC,Crops,9,Argentina,5419,Yield,27,"Rice, paddy",2016,2016,hg/ha,67632
+QC,Crops,9,Argentina,5419,Yield,27,"Rice, paddy",2017,2017,hg/ha,66520
+QC,Crops,9,Argentina,5419,Yield,27,"Rice, paddy",2018,2018,hg/ha,67590
+QC,Crops,9,Argentina,5419,Yield,27,"Rice, paddy",2019,2019,hg/ha,68950
+QC,Crops,9,Argentina,5419,Yield,27,"Rice, paddy",2020,2020,hg/ha,70532
+QC,Crops,9,Argentina,5419,Yield,27,"Rice, paddy",2021,2021,hg/ha,66854
+QC,Crops,9,Argentina,5419,Yield,27,"Rice, paddy",2022,2022,hg/ha,71520
 QC,Crops,9,Argentina,5419,Yield,83,Sorghum,1961,1961,hg/ha,18771
 QC,Crops,9,Argentina,5419,Yield,83,Sorghum,1962,1962,hg/ha,18559
 QC,Crops,9,Argentina,5419,Yield,83,Sorghum,1963,1963,hg/ha,14200
@@ -1753,6 +1927,12 @@ QC,Crops,9,Argentina,5419,Yield,83,Sorghum,2013,2013,hg/ha,40852
 QC,Crops,9,Argentina,5419,Yield,83,Sorghum,2014,2014,hg/ha,44009
 QC,Crops,9,Argentina,5419,Yield,83,Sorghum,2015,2015,hg/ha,47043
 QC,Crops,9,Argentina,5419,Yield,83,Sorghum,2016,2016,hg/ha,44976
+QC,Crops,9,Argentina,5419,Yield,83,Sorghum,2017,2017,hg/ha,45650
+QC,Crops,9,Argentina,5419,Yield,83,Sorghum,2018,2018,hg/ha,46850
+QC,Crops,9,Argentina,5419,Yield,83,Sorghum,2019,2019,hg/ha,49520
+QC,Crops,9,Argentina,5419,Yield,83,Sorghum,2020,2020,hg/ha,47650
+QC,Crops,9,Argentina,5419,Yield,83,Sorghum,2021,2021,hg/ha,48650
+QC,Crops,9,Argentina,5419,Yield,83,Sorghum,2022,2022,hg/ha,49950
 QC,Crops,9,Argentina,5419,Yield,236,Soybeans,1961,1961,hg/ha,9765
 QC,Crops,9,Argentina,5419,Yield,236,Soybeans,1962,1962,hg/ha,11628
 QC,Crops,9,Argentina,5419,Yield,236,Soybeans,1963,1963,hg/ha,9802
@@ -1809,6 +1989,12 @@ QC,Crops,9,Argentina,5419,Yield,236,Soybeans,2013,2013,hg/ha,25391
 QC,Crops,9,Argentina,5419,Yield,236,Soybeans,2014,2014,hg/ha,27735
 QC,Crops,9,Argentina,5419,Yield,236,Soybeans,2015,2015,hg/ha,31755
 QC,Crops,9,Argentina,5419,Yield,236,Soybeans,2016,2016,hg/ha,30146
+QC,Crops,9,Argentina,5419,Yield,236,Soybeans,2017,2017,hg/ha,31256
+QC,Crops,9,Argentina,5419,Yield,236,Soybeans,2018,2018,hg/ha,34562
+QC,Crops,9,Argentina,5419,Yield,236,Soybeans,2019,2019,hg/ha,31256
+QC,Crops,9,Argentina,5419,Yield,236,Soybeans,2020,2020,hg/ha,32504
+QC,Crops,9,Argentina,5419,Yield,236,Soybeans,2021,2021,hg/ha,35462
+QC,Crops,9,Argentina,5419,Yield,236,Soybeans,2022,2022,hg/ha,38658
 QC,Crops,9,Argentina,5419,Yield,122,Sweet potatoes,1961,1961,hg/ha,102075
 QC,Crops,9,Argentina,5419,Yield,122,Sweet potatoes,1962,1962,hg/ha,99964
 QC,Crops,9,Argentina,5419,Yield,122,Sweet potatoes,1963,1963,hg/ha,100263
@@ -1865,6 +2051,12 @@ QC,Crops,9,Argentina,5419,Yield,122,Sweet potatoes,2013,2013,hg/ha,147498
 QC,Crops,9,Argentina,5419,Yield,122,Sweet potatoes,2014,2014,hg/ha,146870
 QC,Crops,9,Argentina,5419,Yield,122,Sweet potatoes,2015,2015,hg/ha,146242
 QC,Crops,9,Argentina,5419,Yield,122,Sweet potatoes,2016,2016,hg/ha,145614
+QC,Crops,9,Argentina,5419,Yield,122,Sweet potatoes,2017,2017,hg/ha,145685
+QC,Crops,9,Argentina,5419,Yield,122,Sweet potatoes,2018,2018,hg/ha,146875
+QC,Crops,9,Argentina,5419,Yield,122,Sweet potatoes,2019,2019,hg/ha,142568
+QC,Crops,9,Argentina,5419,Yield,122,Sweet potatoes,2020,2020,hg/ha,145890
+QC,Crops,9,Argentina,5419,Yield,122,Sweet potatoes,2021,2021,hg/ha,147589
+QC,Crops,9,Argentina,5419,Yield,122,Sweet potatoes,2022,2022,hg/ha,149860
 QC,Crops,9,Argentina,5419,Yield,15,Wheat,1961,1961,hg/ha,12950
 QC,Crops,9,Argentina,5419,Yield,15,Wheat,1962,1962,hg/ha,15222
 QC,Crops,9,Argentina,5419,Yield,15,Wheat,1963,1963,hg/ha,15751
@@ -1921,6 +2113,12 @@ QC,Crops,9,Argentina,5419,Yield,15,Wheat,2013,2013,hg/ha,26581
 QC,Crops,9,Argentina,5419,Yield,15,Wheat,2014,2014,hg/ha,28110
 QC,Crops,9,Argentina,5419,Yield,15,Wheat,2015,2015,hg/ha,28731
 QC,Crops,9,Argentina,5419,Yield,15,Wheat,2016,2016,hg/ha,32966
+QC,Crops,9,Argentina,5419,Yield,15,Wheat,2017,2017,hg/ha,33650
+QC,Crops,9,Argentina,5419,Yield,15,Wheat,2018,2018,hg/ha,34520
+QC,Crops,9,Argentina,5419,Yield,15,Wheat,2019,2019,hg/ha,31256
+QC,Crops,9,Argentina,5419,Yield,15,Wheat,2020,2020,hg/ha,34560
+QC,Crops,9,Argentina,5419,Yield,15,Wheat,2021,2021,hg/ha,37689
+QC,Crops,9,Argentina,5419,Yield,15,Wheat,2022,2022,hg/ha,32966
 QC,Crops,1,Armenia,5419,Yield,56,Maize,1992,1992,hg/ha,32344
 QC,Crops,1,Armenia,5419,Yield,56,Maize,1993,1993,hg/ha,32261
 QC,Crops,1,Armenia,5419,Yield,56,Maize,1994,1994,hg/ha,32667
@@ -2052,6 +2250,12 @@ QC,Crops,10,Australia,5419,Yield,56,Maize,2013,2013,hg/ha,64441
 QC,Crops,10,Australia,5419,Yield,56,Maize,2014,2014,hg/ha,74554
 QC,Crops,10,Australia,5419,Yield,56,Maize,2015,2015,hg/ha,83001
 QC,Crops,10,Australia,5419,Yield,56,Maize,2016,2016,hg/ha,75080
+QC,Crops,10,Australia,5419,Yield,56,Maize,2017,2017,hg/ha,78580
+QC,Crops,10,Australia,5419,Yield,56,Maize,2018,2018,hg/ha,79650
+QC,Crops,10,Australia,5419,Yield,56,Maize,2019,2019,hg/ha,72658
+QC,Crops,10,Australia,5419,Yield,56,Maize,2020,2020,hg/ha,77650
+QC,Crops,10,Australia,5419,Yield,56,Maize,2021,2021,hg/ha,79560
+QC,Crops,10,Australia,5419,Yield,56,Maize,2022,2022,hg/ha,81560
 QC,Crops,10,Australia,5419,Yield,116,Potatoes,1961,1961,hg/ha,123285
 QC,Crops,10,Australia,5419,Yield,116,Potatoes,1962,1962,hg/ha,139832
 QC,Crops,10,Australia,5419,Yield,116,Potatoes,1963,1963,hg/ha,147145
@@ -2108,6 +2312,12 @@ QC,Crops,10,Australia,5419,Yield,116,Potatoes,2013,2013,hg/ha,385434
 QC,Crops,10,Australia,5419,Yield,116,Potatoes,2014,2014,hg/ha,396970
 QC,Crops,10,Australia,5419,Yield,116,Potatoes,2015,2015,hg/ha,392501
 QC,Crops,10,Australia,5419,Yield,116,Potatoes,2016,2016,hg/ha,404096
+QC,Crops,10,Australia,5419,Yield,116,Potatoes,2017,2017,hg/ha,405960
+QC,Crops,10,Australia,5419,Yield,116,Potatoes,2018,2018,hg/ha,412560
+QC,Crops,10,Australia,5419,Yield,116,Potatoes,2019,2019,hg/ha,398650
+QC,Crops,10,Australia,5419,Yield,116,Potatoes,2020,2020,hg/ha,416589
+QC,Crops,10,Australia,5419,Yield,116,Potatoes,2021,2021,hg/ha,425604
+QC,Crops,10,Australia,5419,Yield,116,Potatoes,2022,2022,hg/ha,459800
 QC,Crops,10,Australia,5419,Yield,27,"Rice, paddy",1961,1961,hg/ha,59000
 QC,Crops,10,Australia,5419,Yield,27,"Rice, paddy",1962,1962,hg/ha,68443
 QC,Crops,10,Australia,5419,Yield,27,"Rice, paddy",1963,1963,hg/ha,62981
@@ -2164,6 +2374,12 @@ QC,Crops,10,Australia,5419,Yield,27,"Rice, paddy",2013,2013,hg/ha,102177
 QC,Crops,10,Australia,5419,Yield,27,"Rice, paddy",2014,2014,hg/ha,106827
 QC,Crops,10,Australia,5419,Yield,27,"Rice, paddy",2015,2015,hg/ha,99103
 QC,Crops,10,Australia,5419,Yield,27,"Rice, paddy",2016,2016,hg/ha,102889
+QC,Crops,10,Australia,5419,Yield,27,"Rice, paddy",2017,2017,hg/ha,107583
+QC,Crops,10,Australia,5419,Yield,27,"Rice, paddy",2018,2018,hg/ha,119028
+QC,Crops,10,Australia,5419,Yield,27,"Rice, paddy",2019,2019,hg/ha,121621
+QC,Crops,10,Australia,5419,Yield,27,"Rice, paddy",2020,2020,hg/ha,121130
+QC,Crops,10,Australia,5419,Yield,27,"Rice, paddy",2021,2021,hg/ha,105282
+QC,Crops,10,Australia,5419,Yield,27,"Rice, paddy",2022,2022,hg/ha,107676
 QC,Crops,10,Australia,5419,Yield,83,Sorghum,1961,1961,hg/ha,15807
 QC,Crops,10,Australia,5419,Yield,83,Sorghum,1962,1962,hg/ha,17358
 QC,Crops,10,Australia,5419,Yield,83,Sorghum,1963,1963,hg/ha,17618
@@ -2220,6 +2436,12 @@ QC,Crops,10,Australia,5419,Yield,83,Sorghum,2013,2013,hg/ha,34419
 QC,Crops,10,Australia,5419,Yield,83,Sorghum,2014,2014,hg/ha,24099
 QC,Crops,10,Australia,5419,Yield,83,Sorghum,2015,2015,hg/ha,30160
 QC,Crops,10,Australia,5419,Yield,83,Sorghum,2016,2016,hg/ha,34399
+QC,Crops,10,Australia,5419,Yield,83,Sorghum,2017,2017,hg/ha,38059
+QC,Crops,10,Australia,5419,Yield,83,Sorghum,2018,2018,hg/ha,34357
+QC,Crops,10,Australia,5419,Yield,83,Sorghum,2019,2019,hg/ha,37873
+QC,Crops,10,Australia,5419,Yield,83,Sorghum,2020,2020,hg/ha,33466
+QC,Crops,10,Australia,5419,Yield,83,Sorghum,2021,2021,hg/ha,38115
+QC,Crops,10,Australia,5419,Yield,83,Sorghum,2022,2022,hg/ha,36891
 QC,Crops,10,Australia,5419,Yield,236,Soybeans,1961,1961,hg/ha,6667
 QC,Crops,10,Australia,5419,Yield,236,Soybeans,1962,1962,hg/ha,7738
 QC,Crops,10,Australia,5419,Yield,236,Soybeans,1963,1963,hg/ha,5978
@@ -2276,6 +2498,12 @@ QC,Crops,10,Australia,5419,Yield,236,Soybeans,2013,2013,hg/ha,22336
 QC,Crops,10,Australia,5419,Yield,236,Soybeans,2014,2014,hg/ha,21622
 QC,Crops,10,Australia,5419,Yield,236,Soybeans,2015,2015,hg/ha,21151
 QC,Crops,10,Australia,5419,Yield,236,Soybeans,2016,2016,hg/ha,21422
+QC,Crops,10,Australia,5419,Yield,236,Soybeans,2017,2017,hg/ha,22816
+QC,Crops,10,Australia,5419,Yield,236,Soybeans,2018,2018,hg/ha,26140
+QC,Crops,10,Australia,5419,Yield,236,Soybeans,2019,2019,hg/ha,23542
+QC,Crops,10,Australia,5419,Yield,236,Soybeans,2020,2020,hg/ha,22386
+QC,Crops,10,Australia,5419,Yield,236,Soybeans,2021,2021,hg/ha,28203
+QC,Crops,10,Australia,5419,Yield,236,Soybeans,2022,2022,hg/ha,24791
 QC,Crops,10,Australia,5419,Yield,122,Sweet potatoes,1961,1961,hg/ha,77344
 QC,Crops,10,Australia,5419,Yield,122,Sweet potatoes,1962,1962,hg/ha,92263
 QC,Crops,10,Australia,5419,Yield,122,Sweet potatoes,1963,1963,hg/ha,85700
@@ -2332,6 +2560,12 @@ QC,Crops,10,Australia,5419,Yield,122,Sweet potatoes,2013,2013,hg/ha,344391
 QC,Crops,10,Australia,5419,Yield,122,Sweet potatoes,2014,2014,hg/ha,395623
 QC,Crops,10,Australia,5419,Yield,122,Sweet potatoes,2015,2015,hg/ha,353643
 QC,Crops,10,Australia,5419,Yield,122,Sweet potatoes,2016,2016,hg/ha,348062
+QC,Crops,10,Australia,5419,Yield,122,Sweet potatoes,2017,2017,hg/ha,403969
+QC,Crops,10,Australia,5419,Yield,122,Sweet potatoes,2018,2018,hg/ha,382763
+QC,Crops,10,Australia,5419,Yield,122,Sweet potatoes,2019,2019,hg/ha,401168
+QC,Crops,10,Australia,5419,Yield,122,Sweet potatoes,2020,2020,hg/ha,405129
+QC,Crops,10,Australia,5419,Yield,122,Sweet potatoes,2021,2021,hg/ha,387476
+QC,Crops,10,Australia,5419,Yield,122,Sweet potatoes,2022,2022,hg/ha,396464
 QC,Crops,10,Australia,5419,Yield,15,Wheat,1961,1961,hg/ha,11291
 QC,Crops,10,Australia,5419,Yield,15,Wheat,1962,1962,hg/ha,12533
 QC,Crops,10,Australia,5419,Yield,15,Wheat,1963,1963,hg/ha,13387
@@ -2388,6 +2622,12 @@ QC,Crops,10,Australia,5419,Yield,15,Wheat,2013,2013,hg/ha,17609
 QC,Crops,10,Australia,5419,Yield,15,Wheat,2014,2014,hg/ha,20061
 QC,Crops,10,Australia,5419,Yield,15,Wheat,2015,2015,hg/ha,19172
 QC,Crops,10,Australia,5419,Yield,15,Wheat,2016,2016,hg/ha,19743
+QC,Crops,10,Australia,5419,Yield,15,Wheat,2017,2017,hg/ha,20785
+QC,Crops,10,Australia,5419,Yield,15,Wheat,2018,2018,hg/ha,20669
+QC,Crops,10,Australia,5419,Yield,15,Wheat,2019,2019,hg/ha,20231
+QC,Crops,10,Australia,5419,Yield,15,Wheat,2020,2020,hg/ha,19808
+QC,Crops,10,Australia,5419,Yield,15,Wheat,2021,2021,hg/ha,23463
+QC,Crops,10,Australia,5419,Yield,15,Wheat,2022,2022,hg/ha,23604
 QC,Crops,11,Austria,5419,Yield,56,Maize,1961,1961,hg/ha,38605
 QC,Crops,11,Austria,5419,Yield,56,Maize,1962,1962,hg/ha,35620
 QC,Crops,11,Austria,5419,Yield,56,Maize,1963,1963,hg/ha,39033
@@ -2444,6 +2684,12 @@ QC,Crops,11,Austria,5419,Yield,56,Maize,2013,2013,hg/ha,81173
 QC,Crops,11,Austria,5419,Yield,56,Maize,2014,2014,hg/ha,107915
 QC,Crops,11,Austria,5419,Yield,56,Maize,2015,2015,hg/ha,86787
 QC,Crops,11,Austria,5419,Yield,56,Maize,2016,2016,hg/ha,111629
+QC,Crops,11,Austria,5419,Yield,56,Maize,2017,2017,hg/ha,178534
+QC,Crops,11,Austria,5419,Yield,56,Maize,2018,2018,hg/ha,115854
+QC,Crops,11,Austria,5419,Yield,56,Maize,2019,2019,hg/ha,129624
+QC,Crops,11,Austria,5419,Yield,56,Maize,2020,2020,hg/ha,156103
+QC,Crops,11,Austria,5419,Yield,56,Maize,2021,2021,hg/ha,130608
+QC,Crops,11,Austria,5419,Yield,56,Maize,2022,2022,hg/ha,143974
 QC,Crops,11,Austria,5419,Yield,116,Potatoes,1961,1961,hg/ha,197806
 QC,Crops,11,Austria,5419,Yield,116,Potatoes,1962,1962,hg/ha,190451
 QC,Crops,11,Austria,5419,Yield,116,Potatoes,1963,1963,hg/ha,217780
@@ -2507,6 +2753,12 @@ QC,Crops,11,Austria,5419,Yield,83,Sorghum,2013,2013,hg/ha,52447
 QC,Crops,11,Austria,5419,Yield,83,Sorghum,2014,2014,hg/ha,66280
 QC,Crops,11,Austria,5419,Yield,83,Sorghum,2015,2015,hg/ha,70891
 QC,Crops,11,Austria,5419,Yield,83,Sorghum,2016,2016,hg/ha,73403
+QC,Crops,11,Austria,5419,Yield,83,Sorghum,2017,2017,hg/ha,76982
+QC,Crops,11,Austria,5419,Yield,83,Sorghum,2018,2018,hg/ha,77257
+QC,Crops,11,Austria,5419,Yield,83,Sorghum,2019,2019,hg/ha,79070
+QC,Crops,11,Austria,5419,Yield,83,Sorghum,2020,2020,hg/ha,78790
+QC,Crops,11,Austria,5419,Yield,83,Sorghum,2021,2021,hg/ha,79859
+QC,Crops,11,Austria,5419,Yield,83,Sorghum,2022,2022,hg/ha,76452
 QC,Crops,11,Austria,5419,Yield,236,Soybeans,1988,1988,hg/ha,15766
 QC,Crops,11,Austria,5419,Yield,236,Soybeans,1989,1989,hg/ha,20693
 QC,Crops,11,Austria,5419,Yield,236,Soybeans,1990,1990,hg/ha,19046
@@ -2536,6 +2788,12 @@ QC,Crops,11,Austria,5419,Yield,236,Soybeans,2013,2013,hg/ha,19697
 QC,Crops,11,Austria,5419,Yield,236,Soybeans,2014,2014,hg/ha,26951
 QC,Crops,11,Austria,5419,Yield,236,Soybeans,2015,2015,hg/ha,23938
 QC,Crops,11,Austria,5419,Yield,236,Soybeans,2016,2016,hg/ha,30648
+QC,Crops,11,Austria,5419,Yield,236,Soybeans,2017,2017,hg/ha,32648
+QC,Crops,11,Austria,5419,Yield,236,Soybeans,2018,2018,hg/ha,32348
+QC,Crops,11,Austria,5419,Yield,236,Soybeans,2019,2019,hg/ha,30648
+QC,Crops,11,Austria,5419,Yield,236,Soybeans,2020,2020,hg/ha,33648
+QC,Crops,11,Austria,5419,Yield,236,Soybeans,2021,2021,hg/ha,34648
+QC,Crops,11,Austria,5419,Yield,236,Soybeans,2022,2022,hg/ha,36648
 QC,Crops,11,Austria,5419,Yield,15,Wheat,1961,1961,hg/ha,25802
 QC,Crops,11,Austria,5419,Yield,15,Wheat,1962,1962,hg/ha,26122
 QC,Crops,11,Austria,5419,Yield,15,Wheat,1963,1963,hg/ha,25099
@@ -2592,6 +2850,12 @@ QC,Crops,11,Austria,5419,Yield,15,Wheat,2013,2013,hg/ha,53743
 QC,Crops,11,Austria,5419,Yield,15,Wheat,2014,2014,hg/ha,59217
 QC,Crops,11,Austria,5419,Yield,15,Wheat,2015,2015,hg/ha,56962
 QC,Crops,11,Austria,5419,Yield,15,Wheat,2016,2016,hg/ha,62534
+QC,Crops,11,Austria,5419,Yield,15,Wheat,2017,2017,hg/ha,62934
+QC,Crops,11,Austria,5419,Yield,15,Wheat,2018,2018,hg/ha,63534
+QC,Crops,11,Austria,5419,Yield,15,Wheat,2019,2019,hg/ha,65534
+QC,Crops,11,Austria,5419,Yield,15,Wheat,2020,2020,hg/ha,62534
+QC,Crops,11,Austria,5419,Yield,15,Wheat,2021,2021,hg/ha,66534
+QC,Crops,11,Austria,5419,Yield,15,Wheat,2022,2022,hg/ha,69534
 QC,Crops,52,Azerbaijan,5419,Yield,56,Maize,1992,1992,hg/ha,18740
 QC,Crops,52,Azerbaijan,5419,Yield,56,Maize,1993,1993,hg/ha,13918
 QC,Crops,52,Azerbaijan,5419,Yield,56,Maize,1994,1994,hg/ha,14619
@@ -2667,6 +2931,12 @@ QC,Crops,52,Azerbaijan,5419,Yield,27,"Rice, paddy",2013,2013,hg/ha,22808
 QC,Crops,52,Azerbaijan,5419,Yield,27,"Rice, paddy",2014,2014,hg/ha,24646
 QC,Crops,52,Azerbaijan,5419,Yield,27,"Rice, paddy",2015,2015,hg/ha,23696
 QC,Crops,52,Azerbaijan,5419,Yield,27,"Rice, paddy",2016,2016,hg/ha,21538
+QC,Crops,52,Azerbaijan,5419,Yield,27,"Rice, paddy",2017,2017,hg/ha,22538
+QC,Crops,52,Azerbaijan,5419,Yield,27,"Rice, paddy",2018,2018,hg/ha,23538
+QC,Crops,52,Azerbaijan,5419,Yield,27,"Rice, paddy",2019,2019,hg/ha,20538
+QC,Crops,52,Azerbaijan,5419,Yield,27,"Rice, paddy",2020,2020,hg/ha,21938
+QC,Crops,52,Azerbaijan,5419,Yield,27,"Rice, paddy",2021,2021,hg/ha,23538
+QC,Crops,52,Azerbaijan,5419,Yield,27,"Rice, paddy",2022,2022,hg/ha,25538
 QC,Crops,52,Azerbaijan,5419,Yield,83,Sorghum,1992,1992,hg/ha,578
 QC,Crops,52,Azerbaijan,5419,Yield,83,Sorghum,1993,1993,hg/ha,1659
 QC,Crops,52,Azerbaijan,5419,Yield,83,Sorghum,1994,1994,hg/ha,2323
@@ -2705,6 +2975,12 @@ QC,Crops,52,Azerbaijan,5419,Yield,236,Soybeans,2013,2013,hg/ha,6457
 QC,Crops,52,Azerbaijan,5419,Yield,236,Soybeans,2014,2014,hg/ha,6327
 QC,Crops,52,Azerbaijan,5419,Yield,236,Soybeans,2015,2015,hg/ha,6197
 QC,Crops,52,Azerbaijan,5419,Yield,236,Soybeans,2016,2016,hg/ha,6067
+QC,Crops,52,Azerbaijan,5419,Yield,236,Soybeans,2017,2017,hg/ha,6167
+QC,Crops,52,Azerbaijan,5419,Yield,236,Soybeans,2018,2018,hg/ha,6367
+QC,Crops,52,Azerbaijan,5419,Yield,236,Soybeans,2019,2019,hg/ha,6467
+QC,Crops,52,Azerbaijan,5419,Yield,236,Soybeans,2020,2020,hg/ha,6667
+QC,Crops,52,Azerbaijan,5419,Yield,236,Soybeans,2021,2021,hg/ha,6567
+QC,Crops,52,Azerbaijan,5419,Yield,236,Soybeans,2022,2022,hg/ha,6767
 QC,Crops,52,Azerbaijan,5419,Yield,15,Wheat,1992,1992,hg/ha,21705
 QC,Crops,52,Azerbaijan,5419,Yield,15,Wheat,1993,1993,hg/ha,16855
 QC,Crops,52,Azerbaijan,5419,Yield,15,Wheat,1994,1994,hg/ha,16296
@@ -2730,6 +3006,12 @@ QC,Crops,52,Azerbaijan,5419,Yield,15,Wheat,2013,2013,hg/ha,26719
 QC,Crops,52,Azerbaijan,5419,Yield,15,Wheat,2014,2014,hg/ha,23285
 QC,Crops,52,Azerbaijan,5419,Yield,15,Wheat,2015,2015,hg/ha,30385
 QC,Crops,52,Azerbaijan,5419,Yield,15,Wheat,2016,2016,hg/ha,30475
+QC,Crops,52,Azerbaijan,5419,Yield,15,Wheat,2017,2017,hg/ha,31475
+QC,Crops,52,Azerbaijan,5419,Yield,15,Wheat,2018,2018,hg/ha,30875
+QC,Crops,52,Azerbaijan,5419,Yield,15,Wheat,2019,2019,hg/ha,31075
+QC,Crops,52,Azerbaijan,5419,Yield,15,Wheat,2020,2020,hg/ha,33475
+QC,Crops,52,Azerbaijan,5419,Yield,15,Wheat,2021,2021,hg/ha,36475
+QC,Crops,52,Azerbaijan,5419,Yield,15,Wheat,2022,2022,hg/ha,35475
 QC,Crops,12,Bahamas,5419,Yield,125,Cassava,1961,1961,hg/ha,83333
 QC,Crops,12,Bahamas,5419,Yield,125,Cassava,1962,1962,hg/ha,80645
 QC,Crops,12,Bahamas,5419,Yield,125,Cassava,1963,1963,hg/ha,84615
@@ -13177,440 +13459,440 @@ QC,Crops,48,Costa Rica,5419,Yield,137,Yams,2013,2013,hg/ha,123770
 QC,Crops,48,Costa Rica,5419,Yield,137,Yams,2014,2014,hg/ha,150000
 QC,Crops,48,Costa Rica,5419,Yield,137,Yams,2015,2015,hg/ha,150000
 QC,Crops,48,Costa Rica,5419,Yield,137,Yams,2016,2016,hg/ha,150000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1961,1961,hg/ha,30065
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1962,1962,hg/ha,28409
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1963,1963,hg/ha,22381
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1964,1964,hg/ha,22273
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1965,1965,hg/ha,22026
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1966,1966,hg/ha,26823
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1967,1967,hg/ha,25794
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1968,1968,hg/ha,26500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1969,1969,hg/ha,32491
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1970,1970,hg/ha,33129
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1971,1971,hg/ha,33353
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1972,1972,hg/ha,33429
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1973,1973,hg/ha,33602
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1974,1974,hg/ha,33767
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1975,1975,hg/ha,55206
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1976,1976,hg/ha,53659
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1977,1977,hg/ha,50622
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1978,1978,hg/ha,51799
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1979,1979,hg/ha,52543
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1980,1980,hg/ha,52332
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1981,1981,hg/ha,53390
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1982,1982,hg/ha,52543
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1983,1983,hg/ha,48794
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1984,1984,hg/ha,54408
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1985,1985,hg/ha,56138
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1986,1986,hg/ha,55066
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1987,1987,hg/ha,56522
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1988,1988,hg/ha,54874
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1989,1989,hg/ha,55061
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1990,1990,hg/ha,55059
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1991,1991,hg/ha,51950
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1992,1992,hg/ha,50067
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1993,1993,hg/ha,49475
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1994,1994,hg/ha,50454
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1995,1995,hg/ha,52901
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1996,1996,hg/ha,55621
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1997,1997,hg/ha,66913
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1998,1998,hg/ha,72776
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,1999,1999,hg/ha,77406
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2000,2000,hg/ha,77431
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2001,2001,hg/ha,77457
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2002,2002,hg/ha,77482
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2003,2003,hg/ha,77507
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2004,2004,hg/ha,76980
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2005,2005,hg/ha,80485
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2006,2006,hg/ha,73898
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2007,2007,hg/ha,73000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2008,2008,hg/ha,76884
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2009,2009,hg/ha,66774
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2010,2010,hg/ha,66000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2011,2011,hg/ha,66900
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2012,2012,hg/ha,65900
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2013,2013,hg/ha,65871
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2014,2014,hg/ha,64947
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2015,2015,hg/ha,64097
-QC,Crops,107,Côte d'Ivoire,5419,Yield,125,Cassava,2016,2016,hg/ha,63466
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1961,1961,hg/ha,5294
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1962,1962,hg/ha,7623
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1963,1963,hg/ha,6815
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1964,1964,hg/ha,6929
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1965,1965,hg/ha,6950
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1966,1966,hg/ha,7143
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1967,1967,hg/ha,7746
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1968,1968,hg/ha,6867
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1969,1969,hg/ha,7808
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1970,1970,hg/ha,7046
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1971,1971,hg/ha,8321
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1972,1972,hg/ha,6716
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1973,1973,hg/ha,6686
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1974,1974,hg/ha,6417
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1975,1975,hg/ha,5217
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1976,1976,hg/ha,4768
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1977,1977,hg/ha,4796
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1978,1978,hg/ha,4681
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1979,1979,hg/ha,4709
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1980,1980,hg/ha,8120
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1981,1981,hg/ha,8163
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1982,1982,hg/ha,8269
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1983,1983,hg/ha,7455
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1984,1984,hg/ha,8739
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1985,1985,hg/ha,9006
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1986,1986,hg/ha,7000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1987,1987,hg/ha,6765
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1988,1988,hg/ha,6995
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1989,1989,hg/ha,6993
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1990,1990,hg/ha,11904
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1991,1991,hg/ha,12533
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1992,1992,hg/ha,13195
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1993,1993,hg/ha,13892
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1994,1994,hg/ha,14627
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1995,1995,hg/ha,15400
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1996,1996,hg/ha,16214
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1997,1997,hg/ha,17070
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1998,1998,hg/ha,17973
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,1999,1999,hg/ha,19622
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2000,2000,hg/ha,20287
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2001,2001,hg/ha,20975
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2002,2002,hg/ha,21687
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2003,2003,hg/ha,22422
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2004,2004,hg/ha,22242
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2005,2005,hg/ha,21138
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2006,2006,hg/ha,21157
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2007,2007,hg/ha,17643
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2008,2008,hg/ha,20313
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2009,2009,hg/ha,19966
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2010,2010,hg/ha,19800
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2011,2011,hg/ha,18969
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2012,2012,hg/ha,21200
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2013,2013,hg/ha,21505
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2014,2014,hg/ha,20102
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2015,2015,hg/ha,19846
-QC,Crops,107,Côte d'Ivoire,5419,Yield,56,Maize,2016,2016,hg/ha,19783
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1961,1961,hg/ha,15625
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1962,1962,hg/ha,15833
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1963,1963,hg/ha,15942
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1964,1964,hg/ha,15890
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1965,1965,hg/ha,16000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1966,1966,hg/ha,16184
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1967,1967,hg/ha,16316
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1968,1968,hg/ha,16447
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1969,1969,hg/ha,16571
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1970,1970,hg/ha,16667
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1971,1971,hg/ha,16750
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1972,1972,hg/ha,16627
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1973,1973,hg/ha,16500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1974,1974,hg/ha,16744
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1975,1975,hg/ha,24589
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1976,1976,hg/ha,23537
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1977,1977,hg/ha,22274
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1978,1978,hg/ha,23642
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1979,1979,hg/ha,29823
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1980,1980,hg/ha,29836
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1981,1981,hg/ha,30159
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1982,1982,hg/ha,30154
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1983,1983,hg/ha,30000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1984,1984,hg/ha,32787
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1985,1985,hg/ha,32787
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1986,1986,hg/ha,33115
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1987,1987,hg/ha,33175
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1988,1988,hg/ha,31758
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1989,1989,hg/ha,32333
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1990,1990,hg/ha,31941
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1991,1991,hg/ha,33857
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1992,1992,hg/ha,33589
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1993,1993,hg/ha,35229
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1994,1994,hg/ha,38036
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1995,1995,hg/ha,37347
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1996,1996,hg/ha,38366
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1997,1997,hg/ha,41715
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1998,1998,hg/ha,39986
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,1999,1999,hg/ha,36518
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2000,2000,hg/ha,36504
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2001,2001,hg/ha,36519
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2002,2002,hg/ha,36477
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2003,2003,hg/ha,36463
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2004,2004,hg/ha,37856
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2005,2005,hg/ha,40017
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2006,2006,hg/ha,40124
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2007,2007,hg/ha,40183
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2008,2008,hg/ha,43304
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2009,2009,hg/ha,37625
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2010,2010,hg/ha,37700
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2011,2011,hg/ha,37500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2012,2012,hg/ha,37000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2013,2013,hg/ha,37690
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2014,2014,hg/ha,38322
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2015,2015,hg/ha,37839
-QC,Crops,107,Côte d'Ivoire,5419,Yield,489,Plantains and others,2016,2016,hg/ha,37763
-QC,Crops,107,Côte d'Ivoire,5419,Yield,116,Potatoes,1988,1988,hg/ha,24762
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1961,1961,hg/ha,7573
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1962,1962,hg/ha,8808
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1963,1963,hg/ha,8939
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1964,1964,hg/ha,9151
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1965,1965,hg/ha,9579
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1966,1966,hg/ha,10682
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1967,1967,hg/ha,11452
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1968,1968,hg/ha,12180
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1969,1969,hg/ha,10510
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1970,1970,hg/ha,10917
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1971,1971,hg/ha,13652
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1972,1972,hg/ha,11348
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1973,1973,hg/ha,11552
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1974,1974,hg/ha,12808
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1975,1975,hg/ha,12718
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1976,1976,hg/ha,11558
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1977,1977,hg/ha,11663
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1978,1978,hg/ha,11776
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1979,1979,hg/ha,11920
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1980,1980,hg/ha,11667
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1981,1981,hg/ha,11471
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1982,1982,hg/ha,12857
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1983,1983,hg/ha,9474
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1984,1984,hg/ha,12506
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1985,1985,hg/ha,12000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1986,1986,hg/ha,11002
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1987,1987,hg/ha,11328
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1988,1988,hg/ha,12004
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1989,1989,hg/ha,12000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1990,1990,hg/ha,12010
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1991,1991,hg/ha,10512
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1992,1992,hg/ha,10169
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1993,1993,hg/ha,13360
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1994,1994,hg/ha,10863
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1995,1995,hg/ha,10642
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1996,1996,hg/ha,14643
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1997,1997,hg/ha,12142
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1998,1998,hg/ha,15599
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",1999,1999,hg/ha,17827
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2000,2000,hg/ha,18210
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2001,2001,hg/ha,18612
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2002,2002,hg/ha,19001
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2003,2003,hg/ha,19410
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2004,2004,hg/ha,19989
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2005,2005,hg/ha,19932
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2006,2006,hg/ha,19349
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2007,2007,hg/ha,17012
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2008,2008,hg/ha,18541
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2009,2009,hg/ha,18224
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2010,2010,hg/ha,30546
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2011,2011,hg/ha,22993
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2012,2012,hg/ha,23543
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2013,2013,hg/ha,24565
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2014,2014,hg/ha,24296
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2015,2015,hg/ha,24889
-QC,Crops,107,Côte d'Ivoire,5419,Yield,27,"Rice, paddy",2016,2016,hg/ha,25136
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1961,1961,hg/ha,6667
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1962,1962,hg/ha,7333
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1963,1963,hg/ha,6667
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1964,1964,hg/ha,6667
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1965,1965,hg/ha,7333
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1966,1966,hg/ha,7333
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1967,1967,hg/ha,5399
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1968,1968,hg/ha,5392
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1969,1969,hg/ha,5402
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1970,1970,hg/ha,4836
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1971,1971,hg/ha,5000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1972,1972,hg/ha,4516
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1973,1973,hg/ha,5000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1974,1974,hg/ha,5161
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1975,1975,hg/ha,6419
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1976,1976,hg/ha,6470
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1977,1977,hg/ha,6423
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1978,1978,hg/ha,6411
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1979,1979,hg/ha,6483
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1980,1980,hg/ha,5833
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1981,1981,hg/ha,5672
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1982,1982,hg/ha,5449
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1983,1983,hg/ha,5030
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1984,1984,hg/ha,6081
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1985,1985,hg/ha,6111
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1986,1986,hg/ha,6111
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1987,1987,hg/ha,6216
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1988,1988,hg/ha,6316
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1989,1989,hg/ha,5682
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1990,1990,hg/ha,5778
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1991,1991,hg/ha,5778
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1992,1992,hg/ha,5532
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1993,1993,hg/ha,5490
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1994,1994,hg/ha,5699
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1995,1995,hg/ha,5616
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1996,1996,hg/ha,6055
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1997,1997,hg/ha,5947
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1998,1998,hg/ha,6097
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,1999,1999,hg/ha,6098
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2000,2000,hg/ha,6099
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2001,2001,hg/ha,6100
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2002,2002,hg/ha,5888
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2003,2003,hg/ha,5533
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2004,2004,hg/ha,5848
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2005,2005,hg/ha,5608
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2006,2006,hg/ha,5931
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2007,2007,hg/ha,5559
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2008,2008,hg/ha,6467
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2009,2009,hg/ha,6413
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2010,2010,hg/ha,7035
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2011,2011,hg/ha,6800
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2012,2012,hg/ha,6856
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2013,2013,hg/ha,6729
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2014,2014,hg/ha,6767
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2015,2015,hg/ha,6863
-QC,Crops,107,Côte d'Ivoire,5419,Yield,83,Sorghum,2016,2016,hg/ha,6921
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1976,1976,hg/ha,4500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1977,1977,hg/ha,5000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1978,1978,hg/ha,5000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1979,1979,hg/ha,5000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1980,1980,hg/ha,7866
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1981,1981,hg/ha,9626
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1982,1982,hg/ha,8248
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1983,1983,hg/ha,21000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1984,1984,hg/ha,22000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1985,1985,hg/ha,6000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1986,1986,hg/ha,6000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1987,1987,hg/ha,7500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1988,1988,hg/ha,10000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1989,1989,hg/ha,10000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1990,1990,hg/ha,15787
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1991,1991,hg/ha,10611
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1992,1992,hg/ha,14675
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1993,1993,hg/ha,12298
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1994,1994,hg/ha,11460
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1995,1995,hg/ha,11259
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1996,1996,hg/ha,12000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1997,1997,hg/ha,10000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1998,1998,hg/ha,10077
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,1999,1999,hg/ha,9965
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2000,2000,hg/ha,9633
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2001,2001,hg/ha,8077
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2002,2002,hg/ha,8076
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2003,2003,hg/ha,8071
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2004,2004,hg/ha,8074
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2005,2005,hg/ha,7500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2006,2006,hg/ha,10883
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2007,2007,hg/ha,8813
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2008,2008,hg/ha,10769
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2009,2009,hg/ha,9258
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2010,2010,hg/ha,9167
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2011,2011,hg/ha,9574
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2012,2012,hg/ha,9541
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2013,2013,hg/ha,9641
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2014,2014,hg/ha,9635
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2015,2015,hg/ha,9714
-QC,Crops,107,Côte d'Ivoire,5419,Yield,236,Soybeans,2016,2016,hg/ha,9725
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1961,1961,hg/ha,18889
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1962,1962,hg/ha,20000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1963,1963,hg/ha,20000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1964,1964,hg/ha,19000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1965,1965,hg/ha,20000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1966,1966,hg/ha,20500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1967,1967,hg/ha,19091
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1968,1968,hg/ha,19091
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1969,1969,hg/ha,19626
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1970,1970,hg/ha,19091
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1971,1971,hg/ha,19091
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1972,1972,hg/ha,19091
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1973,1973,hg/ha,19626
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1974,1974,hg/ha,18226
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1975,1975,hg/ha,18462
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1976,1976,hg/ha,20000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1977,1977,hg/ha,20000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1978,1978,hg/ha,20000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1979,1979,hg/ha,20000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1980,1980,hg/ha,20000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1981,1981,hg/ha,20000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1982,1982,hg/ha,20000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1983,1983,hg/ha,20000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1984,1984,hg/ha,20000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1985,1985,hg/ha,21429
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1986,1986,hg/ha,22222
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1987,1987,hg/ha,22727
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1988,1988,hg/ha,23077
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1989,1989,hg/ha,23571
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1990,1990,hg/ha,24000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1991,1991,hg/ha,22500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1992,1992,hg/ha,22219
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1993,1993,hg/ha,21986
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1994,1994,hg/ha,21875
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1995,1995,hg/ha,21222
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1996,1996,hg/ha,20526
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1997,1997,hg/ha,21179
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1998,1998,hg/ha,21500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,1999,1999,hg/ha,21500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2000,2000,hg/ha,21500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2001,2001,hg/ha,21500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2002,2002,hg/ha,21500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2003,2003,hg/ha,21500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2004,2004,hg/ha,21499
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2005,2005,hg/ha,21500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2006,2006,hg/ha,21500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2007,2007,hg/ha,21500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2008,2008,hg/ha,21500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2009,2009,hg/ha,18654
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2010,2010,hg/ha,19031
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2011,2011,hg/ha,18690
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2012,2012,hg/ha,19169
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2013,2013,hg/ha,19306
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2014,2014,hg/ha,19009
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2015,2015,hg/ha,18774
-QC,Crops,107,Côte d'Ivoire,5419,Yield,122,Sweet potatoes,2016,2016,hg/ha,18605
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1961,1961,hg/ha,76667
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1962,1962,hg/ha,77419
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1963,1963,hg/ha,76875
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1964,1964,hg/ha,78750
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1965,1965,hg/ha,77381
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1966,1966,hg/ha,77193
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1967,1967,hg/ha,80357
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1968,1968,hg/ha,81170
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1969,1969,hg/ha,72727
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1970,1970,hg/ha,79538
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1971,1971,hg/ha,80487
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1972,1972,hg/ha,77020
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1973,1973,hg/ha,80000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1974,1974,hg/ha,83333
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1975,1975,hg/ha,86500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1976,1976,hg/ha,82602
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1977,1977,hg/ha,74528
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1978,1978,hg/ha,74868
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1979,1979,hg/ha,75474
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1980,1980,hg/ha,106978
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1981,1981,hg/ha,114886
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1982,1982,hg/ha,116395
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1983,1983,hg/ha,106542
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1984,1984,hg/ha,112671
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1985,1985,hg/ha,103781
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1986,1986,hg/ha,108572
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1987,1987,hg/ha,98680
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1988,1988,hg/ha,99977
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1989,1989,hg/ha,99597
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1990,1990,hg/ha,99609
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1991,1991,hg/ha,101998
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1992,1992,hg/ha,103592
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1993,1993,hg/ha,98296
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1994,1994,hg/ha,98016
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1995,1995,hg/ha,97751
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1996,1996,hg/ha,97500
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1997,1997,hg/ha,97751
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1998,1998,hg/ha,86890
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,1999,1999,hg/ha,87529
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2000,2000,hg/ha,88172
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2001,2001,hg/ha,88820
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2002,2002,hg/ha,88622
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2003,2003,hg/ha,88424
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2004,2004,hg/ha,84443
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2005,2005,hg/ha,84767
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2006,2006,hg/ha,84785
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2007,2007,hg/ha,79538
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2008,2008,hg/ha,75514
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2009,2009,hg/ha,65585
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2010,2010,hg/ha,65000
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2011,2011,hg/ha,66300
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2012,2012,hg/ha,66997
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2013,2013,hg/ha,66096
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2014,2014,hg/ha,63314
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2015,2015,hg/ha,61443
-QC,Crops,107,Côte d'Ivoire,5419,Yield,137,Yams,2016,2016,hg/ha,59919
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1961,1961,hg/ha,30065
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1962,1962,hg/ha,28409
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1963,1963,hg/ha,22381
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1964,1964,hg/ha,22273
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1965,1965,hg/ha,22026
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1966,1966,hg/ha,26823
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1967,1967,hg/ha,25794
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1968,1968,hg/ha,26500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1969,1969,hg/ha,32491
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1970,1970,hg/ha,33129
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1971,1971,hg/ha,33353
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1972,1972,hg/ha,33429
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1973,1973,hg/ha,33602
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1974,1974,hg/ha,33767
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1975,1975,hg/ha,55206
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1976,1976,hg/ha,53659
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1977,1977,hg/ha,50622
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1978,1978,hg/ha,51799
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1979,1979,hg/ha,52543
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1980,1980,hg/ha,52332
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1981,1981,hg/ha,53390
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1982,1982,hg/ha,52543
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1983,1983,hg/ha,48794
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1984,1984,hg/ha,54408
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1985,1985,hg/ha,56138
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1986,1986,hg/ha,55066
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1987,1987,hg/ha,56522
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1988,1988,hg/ha,54874
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1989,1989,hg/ha,55061
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1990,1990,hg/ha,55059
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1991,1991,hg/ha,51950
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1992,1992,hg/ha,50067
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1993,1993,hg/ha,49475
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1994,1994,hg/ha,50454
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1995,1995,hg/ha,52901
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1996,1996,hg/ha,55621
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1997,1997,hg/ha,66913
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1998,1998,hg/ha,72776
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,1999,1999,hg/ha,77406
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2000,2000,hg/ha,77431
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2001,2001,hg/ha,77457
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2002,2002,hg/ha,77482
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2003,2003,hg/ha,77507
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2004,2004,hg/ha,76980
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2005,2005,hg/ha,80485
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2006,2006,hg/ha,73898
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2007,2007,hg/ha,73000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2008,2008,hg/ha,76884
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2009,2009,hg/ha,66774
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2010,2010,hg/ha,66000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2011,2011,hg/ha,66900
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2012,2012,hg/ha,65900
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2013,2013,hg/ha,65871
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2014,2014,hg/ha,64947
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2015,2015,hg/ha,64097
+QC,Crops,107,C?te d'Ivoire,5419,Yield,125,Cassava,2016,2016,hg/ha,63466
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1961,1961,hg/ha,5294
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1962,1962,hg/ha,7623
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1963,1963,hg/ha,6815
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1964,1964,hg/ha,6929
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1965,1965,hg/ha,6950
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1966,1966,hg/ha,7143
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1967,1967,hg/ha,7746
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1968,1968,hg/ha,6867
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1969,1969,hg/ha,7808
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1970,1970,hg/ha,7046
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1971,1971,hg/ha,8321
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1972,1972,hg/ha,6716
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1973,1973,hg/ha,6686
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1974,1974,hg/ha,6417
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1975,1975,hg/ha,5217
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1976,1976,hg/ha,4768
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1977,1977,hg/ha,4796
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1978,1978,hg/ha,4681
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1979,1979,hg/ha,4709
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1980,1980,hg/ha,8120
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1981,1981,hg/ha,8163
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1982,1982,hg/ha,8269
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1983,1983,hg/ha,7455
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1984,1984,hg/ha,8739
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1985,1985,hg/ha,9006
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1986,1986,hg/ha,7000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1987,1987,hg/ha,6765
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1988,1988,hg/ha,6995
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1989,1989,hg/ha,6993
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1990,1990,hg/ha,11904
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1991,1991,hg/ha,12533
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1992,1992,hg/ha,13195
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1993,1993,hg/ha,13892
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1994,1994,hg/ha,14627
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1995,1995,hg/ha,15400
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1996,1996,hg/ha,16214
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1997,1997,hg/ha,17070
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1998,1998,hg/ha,17973
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,1999,1999,hg/ha,19622
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2000,2000,hg/ha,20287
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2001,2001,hg/ha,20975
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2002,2002,hg/ha,21687
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2003,2003,hg/ha,22422
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2004,2004,hg/ha,22242
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2005,2005,hg/ha,21138
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2006,2006,hg/ha,21157
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2007,2007,hg/ha,17643
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2008,2008,hg/ha,20313
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2009,2009,hg/ha,19966
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2010,2010,hg/ha,19800
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2011,2011,hg/ha,18969
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2012,2012,hg/ha,21200
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2013,2013,hg/ha,21505
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2014,2014,hg/ha,20102
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2015,2015,hg/ha,19846
+QC,Crops,107,C?te d'Ivoire,5419,Yield,56,Maize,2016,2016,hg/ha,19783
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1961,1961,hg/ha,15625
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1962,1962,hg/ha,15833
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1963,1963,hg/ha,15942
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1964,1964,hg/ha,15890
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1965,1965,hg/ha,16000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1966,1966,hg/ha,16184
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1967,1967,hg/ha,16316
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1968,1968,hg/ha,16447
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1969,1969,hg/ha,16571
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1970,1970,hg/ha,16667
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1971,1971,hg/ha,16750
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1972,1972,hg/ha,16627
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1973,1973,hg/ha,16500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1974,1974,hg/ha,16744
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1975,1975,hg/ha,24589
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1976,1976,hg/ha,23537
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1977,1977,hg/ha,22274
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1978,1978,hg/ha,23642
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1979,1979,hg/ha,29823
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1980,1980,hg/ha,29836
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1981,1981,hg/ha,30159
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1982,1982,hg/ha,30154
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1983,1983,hg/ha,30000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1984,1984,hg/ha,32787
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1985,1985,hg/ha,32787
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1986,1986,hg/ha,33115
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1987,1987,hg/ha,33175
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1988,1988,hg/ha,31758
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1989,1989,hg/ha,32333
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1990,1990,hg/ha,31941
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1991,1991,hg/ha,33857
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1992,1992,hg/ha,33589
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1993,1993,hg/ha,35229
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1994,1994,hg/ha,38036
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1995,1995,hg/ha,37347
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1996,1996,hg/ha,38366
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1997,1997,hg/ha,41715
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1998,1998,hg/ha,39986
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,1999,1999,hg/ha,36518
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2000,2000,hg/ha,36504
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2001,2001,hg/ha,36519
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2002,2002,hg/ha,36477
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2003,2003,hg/ha,36463
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2004,2004,hg/ha,37856
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2005,2005,hg/ha,40017
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2006,2006,hg/ha,40124
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2007,2007,hg/ha,40183
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2008,2008,hg/ha,43304
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2009,2009,hg/ha,37625
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2010,2010,hg/ha,37700
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2011,2011,hg/ha,37500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2012,2012,hg/ha,37000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2013,2013,hg/ha,37690
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2014,2014,hg/ha,38322
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2015,2015,hg/ha,37839
+QC,Crops,107,C?te d'Ivoire,5419,Yield,489,Plantains and others,2016,2016,hg/ha,37763
+QC,Crops,107,C?te d'Ivoire,5419,Yield,116,Potatoes,1988,1988,hg/ha,24762
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1961,1961,hg/ha,7573
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1962,1962,hg/ha,8808
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1963,1963,hg/ha,8939
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1964,1964,hg/ha,9151
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1965,1965,hg/ha,9579
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1966,1966,hg/ha,10682
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1967,1967,hg/ha,11452
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1968,1968,hg/ha,12180
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1969,1969,hg/ha,10510
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1970,1970,hg/ha,10917
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1971,1971,hg/ha,13652
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1972,1972,hg/ha,11348
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1973,1973,hg/ha,11552
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1974,1974,hg/ha,12808
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1975,1975,hg/ha,12718
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1976,1976,hg/ha,11558
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1977,1977,hg/ha,11663
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1978,1978,hg/ha,11776
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1979,1979,hg/ha,11920
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1980,1980,hg/ha,11667
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1981,1981,hg/ha,11471
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1982,1982,hg/ha,12857
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1983,1983,hg/ha,9474
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1984,1984,hg/ha,12506
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1985,1985,hg/ha,12000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1986,1986,hg/ha,11002
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1987,1987,hg/ha,11328
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1988,1988,hg/ha,12004
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1989,1989,hg/ha,12000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1990,1990,hg/ha,12010
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1991,1991,hg/ha,10512
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1992,1992,hg/ha,10169
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1993,1993,hg/ha,13360
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1994,1994,hg/ha,10863
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1995,1995,hg/ha,10642
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1996,1996,hg/ha,14643
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1997,1997,hg/ha,12142
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1998,1998,hg/ha,15599
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",1999,1999,hg/ha,17827
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2000,2000,hg/ha,18210
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2001,2001,hg/ha,18612
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2002,2002,hg/ha,19001
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2003,2003,hg/ha,19410
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2004,2004,hg/ha,19989
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2005,2005,hg/ha,19932
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2006,2006,hg/ha,19349
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2007,2007,hg/ha,17012
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2008,2008,hg/ha,18541
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2009,2009,hg/ha,18224
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2010,2010,hg/ha,30546
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2011,2011,hg/ha,22993
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2012,2012,hg/ha,23543
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2013,2013,hg/ha,24565
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2014,2014,hg/ha,24296
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2015,2015,hg/ha,24889
+QC,Crops,107,C?te d'Ivoire,5419,Yield,27,"Rice, paddy",2016,2016,hg/ha,25136
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1961,1961,hg/ha,6667
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1962,1962,hg/ha,7333
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1963,1963,hg/ha,6667
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1964,1964,hg/ha,6667
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1965,1965,hg/ha,7333
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1966,1966,hg/ha,7333
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1967,1967,hg/ha,5399
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1968,1968,hg/ha,5392
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1969,1969,hg/ha,5402
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1970,1970,hg/ha,4836
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1971,1971,hg/ha,5000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1972,1972,hg/ha,4516
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1973,1973,hg/ha,5000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1974,1974,hg/ha,5161
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1975,1975,hg/ha,6419
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1976,1976,hg/ha,6470
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1977,1977,hg/ha,6423
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1978,1978,hg/ha,6411
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1979,1979,hg/ha,6483
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1980,1980,hg/ha,5833
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1981,1981,hg/ha,5672
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1982,1982,hg/ha,5449
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1983,1983,hg/ha,5030
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1984,1984,hg/ha,6081
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1985,1985,hg/ha,6111
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1986,1986,hg/ha,6111
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1987,1987,hg/ha,6216
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1988,1988,hg/ha,6316
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1989,1989,hg/ha,5682
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1990,1990,hg/ha,5778
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1991,1991,hg/ha,5778
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1992,1992,hg/ha,5532
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1993,1993,hg/ha,5490
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1994,1994,hg/ha,5699
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1995,1995,hg/ha,5616
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1996,1996,hg/ha,6055
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1997,1997,hg/ha,5947
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1998,1998,hg/ha,6097
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,1999,1999,hg/ha,6098
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2000,2000,hg/ha,6099
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2001,2001,hg/ha,6100
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2002,2002,hg/ha,5888
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2003,2003,hg/ha,5533
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2004,2004,hg/ha,5848
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2005,2005,hg/ha,5608
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2006,2006,hg/ha,5931
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2007,2007,hg/ha,5559
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2008,2008,hg/ha,6467
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2009,2009,hg/ha,6413
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2010,2010,hg/ha,7035
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2011,2011,hg/ha,6800
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2012,2012,hg/ha,6856
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2013,2013,hg/ha,6729
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2014,2014,hg/ha,6767
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2015,2015,hg/ha,6863
+QC,Crops,107,C?te d'Ivoire,5419,Yield,83,Sorghum,2016,2016,hg/ha,6921
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1976,1976,hg/ha,4500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1977,1977,hg/ha,5000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1978,1978,hg/ha,5000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1979,1979,hg/ha,5000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1980,1980,hg/ha,7866
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1981,1981,hg/ha,9626
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1982,1982,hg/ha,8248
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1983,1983,hg/ha,21000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1984,1984,hg/ha,22000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1985,1985,hg/ha,6000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1986,1986,hg/ha,6000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1987,1987,hg/ha,7500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1988,1988,hg/ha,10000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1989,1989,hg/ha,10000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1990,1990,hg/ha,15787
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1991,1991,hg/ha,10611
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1992,1992,hg/ha,14675
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1993,1993,hg/ha,12298
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1994,1994,hg/ha,11460
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1995,1995,hg/ha,11259
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1996,1996,hg/ha,12000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1997,1997,hg/ha,10000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1998,1998,hg/ha,10077
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,1999,1999,hg/ha,9965
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2000,2000,hg/ha,9633
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2001,2001,hg/ha,8077
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2002,2002,hg/ha,8076
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2003,2003,hg/ha,8071
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2004,2004,hg/ha,8074
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2005,2005,hg/ha,7500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2006,2006,hg/ha,10883
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2007,2007,hg/ha,8813
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2008,2008,hg/ha,10769
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2009,2009,hg/ha,9258
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2010,2010,hg/ha,9167
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2011,2011,hg/ha,9574
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2012,2012,hg/ha,9541
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2013,2013,hg/ha,9641
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2014,2014,hg/ha,9635
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2015,2015,hg/ha,9714
+QC,Crops,107,C?te d'Ivoire,5419,Yield,236,Soybeans,2016,2016,hg/ha,9725
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1961,1961,hg/ha,18889
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1962,1962,hg/ha,20000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1963,1963,hg/ha,20000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1964,1964,hg/ha,19000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1965,1965,hg/ha,20000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1966,1966,hg/ha,20500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1967,1967,hg/ha,19091
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1968,1968,hg/ha,19091
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1969,1969,hg/ha,19626
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1970,1970,hg/ha,19091
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1971,1971,hg/ha,19091
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1972,1972,hg/ha,19091
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1973,1973,hg/ha,19626
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1974,1974,hg/ha,18226
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1975,1975,hg/ha,18462
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1976,1976,hg/ha,20000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1977,1977,hg/ha,20000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1978,1978,hg/ha,20000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1979,1979,hg/ha,20000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1980,1980,hg/ha,20000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1981,1981,hg/ha,20000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1982,1982,hg/ha,20000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1983,1983,hg/ha,20000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1984,1984,hg/ha,20000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1985,1985,hg/ha,21429
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1986,1986,hg/ha,22222
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1987,1987,hg/ha,22727
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1988,1988,hg/ha,23077
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1989,1989,hg/ha,23571
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1990,1990,hg/ha,24000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1991,1991,hg/ha,22500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1992,1992,hg/ha,22219
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1993,1993,hg/ha,21986
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1994,1994,hg/ha,21875
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1995,1995,hg/ha,21222
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1996,1996,hg/ha,20526
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1997,1997,hg/ha,21179
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1998,1998,hg/ha,21500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,1999,1999,hg/ha,21500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2000,2000,hg/ha,21500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2001,2001,hg/ha,21500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2002,2002,hg/ha,21500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2003,2003,hg/ha,21500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2004,2004,hg/ha,21499
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2005,2005,hg/ha,21500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2006,2006,hg/ha,21500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2007,2007,hg/ha,21500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2008,2008,hg/ha,21500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2009,2009,hg/ha,18654
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2010,2010,hg/ha,19031
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2011,2011,hg/ha,18690
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2012,2012,hg/ha,19169
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2013,2013,hg/ha,19306
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2014,2014,hg/ha,19009
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2015,2015,hg/ha,18774
+QC,Crops,107,C?te d'Ivoire,5419,Yield,122,Sweet potatoes,2016,2016,hg/ha,18605
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1961,1961,hg/ha,76667
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1962,1962,hg/ha,77419
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1963,1963,hg/ha,76875
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1964,1964,hg/ha,78750
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1965,1965,hg/ha,77381
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1966,1966,hg/ha,77193
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1967,1967,hg/ha,80357
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1968,1968,hg/ha,81170
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1969,1969,hg/ha,72727
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1970,1970,hg/ha,79538
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1971,1971,hg/ha,80487
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1972,1972,hg/ha,77020
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1973,1973,hg/ha,80000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1974,1974,hg/ha,83333
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1975,1975,hg/ha,86500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1976,1976,hg/ha,82602
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1977,1977,hg/ha,74528
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1978,1978,hg/ha,74868
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1979,1979,hg/ha,75474
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1980,1980,hg/ha,106978
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1981,1981,hg/ha,114886
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1982,1982,hg/ha,116395
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1983,1983,hg/ha,106542
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1984,1984,hg/ha,112671
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1985,1985,hg/ha,103781
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1986,1986,hg/ha,108572
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1987,1987,hg/ha,98680
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1988,1988,hg/ha,99977
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1989,1989,hg/ha,99597
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1990,1990,hg/ha,99609
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1991,1991,hg/ha,101998
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1992,1992,hg/ha,103592
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1993,1993,hg/ha,98296
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1994,1994,hg/ha,98016
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1995,1995,hg/ha,97751
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1996,1996,hg/ha,97500
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1997,1997,hg/ha,97751
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1998,1998,hg/ha,86890
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,1999,1999,hg/ha,87529
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2000,2000,hg/ha,88172
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2001,2001,hg/ha,88820
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2002,2002,hg/ha,88622
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2003,2003,hg/ha,88424
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2004,2004,hg/ha,84443
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2005,2005,hg/ha,84767
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2006,2006,hg/ha,84785
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2007,2007,hg/ha,79538
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2008,2008,hg/ha,75514
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2009,2009,hg/ha,65585
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2010,2010,hg/ha,65000
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2011,2011,hg/ha,66300
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2012,2012,hg/ha,66997
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2013,2013,hg/ha,66096
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2014,2014,hg/ha,63314
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2015,2015,hg/ha,61443
+QC,Crops,107,C?te d'Ivoire,5419,Yield,137,Yams,2016,2016,hg/ha,59919
 QC,Crops,98,Croatia,5419,Yield,56,Maize,1992,1992,hg/ha,41535
 QC,Crops,98,Croatia,5419,Yield,56,Maize,1993,1993,hg/ha,44822
 QC,Crops,98,Croatia,5419,Yield,56,Maize,1994,1994,hg/ha,45529
@@ -24544,6 +24826,12 @@ QC,Crops,100,India,5419,Yield,125,Cassava,2013,2013,hg/ha,349594
 QC,Crops,100,India,5419,Yield,125,Cassava,2014,2014,hg/ha,356555
 QC,Crops,100,India,5419,Yield,125,Cassava,2015,2015,hg/ha,210240
 QC,Crops,100,India,5419,Yield,125,Cassava,2016,2016,hg/ha,223235
+QC,Crops,100,India,5419,Yield,125,Cassava,2017,2017,hg/ha,279600
+QC,Crops,100,India,5419,Yield,125,Cassava,2018,2018,hg/ha,256264
+QC,Crops,100,India,5419,Yield,125,Cassava,2019,2019,hg/ha,303208
+QC,Crops,100,India,5419,Yield,125,Cassava,2020,2020,hg/ha,317743
+QC,Crops,100,India,5419,Yield,125,Cassava,2021,2021,hg/ha,229378
+QC,Crops,100,India,5419,Yield,125,Cassava,2022,2022,hg/ha,291804
 QC,Crops,100,India,5419,Yield,56,Maize,1961,1961,hg/ha,9567
 QC,Crops,100,India,5419,Yield,56,Maize,1962,1962,hg/ha,9922
 QC,Crops,100,India,5419,Yield,56,Maize,1963,1963,hg/ha,9954
@@ -24600,6 +24888,12 @@ QC,Crops,100,India,5419,Yield,56,Maize,2013,2013,hg/ha,25726
 QC,Crops,100,India,5419,Yield,56,Maize,2014,2014,hg/ha,26107
 QC,Crops,100,India,5419,Yield,56,Maize,2015,2015,hg/ha,25972
 QC,Crops,100,India,5419,Yield,56,Maize,2016,2016,hg/ha,25745
+QC,Crops,100,India,5419,Yield,56,Maize,2017,2017,hg/ha,26981
+QC,Crops,100,India,5419,Yield,56,Maize,2018,2018,hg/ha,31520
+QC,Crops,100,India,5419,Yield,56,Maize,2019,2019,hg/ha,28809
+QC,Crops,100,India,5419,Yield,56,Maize,2020,2020,hg/ha,29143
+QC,Crops,100,India,5419,Yield,56,Maize,2021,2021,hg/ha,27201
+QC,Crops,100,India,5419,Yield,56,Maize,2022,2022,hg/ha,27889
 QC,Crops,100,India,5419,Yield,116,Potatoes,1961,1961,hg/ha,72507
 QC,Crops,100,India,5419,Yield,116,Potatoes,1962,1962,hg/ha,67041
 QC,Crops,100,India,5419,Yield,116,Potatoes,1963,1963,hg/ha,81477
@@ -24656,6 +24950,12 @@ QC,Crops,100,India,5419,Yield,116,Potatoes,2013,2013,hg/ha,227606
 QC,Crops,100,India,5419,Yield,116,Potatoes,2014,2014,hg/ha,229224
 QC,Crops,100,India,5419,Yield,116,Potatoes,2015,2015,hg/ha,231257
 QC,Crops,100,India,5419,Yield,116,Potatoes,2016,2016,hg/ha,205493
+QC,Crops,100,India,5419,Yield,116,Potatoes,2017,2017,hg/ha,287992
+QC,Crops,100,India,5419,Yield,116,Potatoes,2018,2018,hg/ha,296342
+QC,Crops,100,India,5419,Yield,116,Potatoes,2019,2019,hg/ha,243829
+QC,Crops,100,India,5419,Yield,116,Potatoes,2020,2020,hg/ha,221274
+QC,Crops,100,India,5419,Yield,116,Potatoes,2021,2021,hg/ha,255709
+QC,Crops,100,India,5419,Yield,116,Potatoes,2022,2022,hg/ha,230263
 QC,Crops,100,India,5419,Yield,27,"Rice, paddy",1961,1961,hg/ha,15419
 QC,Crops,100,India,5419,Yield,27,"Rice, paddy",1962,1962,hg/ha,13959
 QC,Crops,100,India,5419,Yield,27,"Rice, paddy",1963,1963,hg/ha,15498
@@ -24712,6 +25012,12 @@ QC,Crops,100,India,5419,Yield,27,"Rice, paddy",2013,2013,hg/ha,36070
 QC,Crops,100,India,5419,Yield,27,"Rice, paddy",2014,2014,hg/ha,35638
 QC,Crops,100,India,5419,Yield,27,"Rice, paddy",2015,2015,hg/ha,36077
 QC,Crops,100,India,5419,Yield,27,"Rice, paddy",2016,2016,hg/ha,36950
+QC,Crops,100,India,5419,Yield,27,"Rice, paddy",2017,2017,hg/ha,44652
+QC,Crops,100,India,5419,Yield,27,"Rice, paddy",2018,2018,hg/ha,40600
+QC,Crops,100,India,5419,Yield,27,"Rice, paddy",2019,2019,hg/ha,40497
+QC,Crops,100,India,5419,Yield,27,"Rice, paddy",2020,2020,hg/ha,44386
+QC,Crops,100,India,5419,Yield,27,"Rice, paddy",2021,2021,hg/ha,43820
+QC,Crops,100,India,5419,Yield,27,"Rice, paddy",2022,2022,hg/ha,42429
 QC,Crops,100,India,5419,Yield,83,Sorghum,1961,1961,hg/ha,4400
 QC,Crops,100,India,5419,Yield,83,Sorghum,1962,1962,hg/ha,5294
 QC,Crops,100,India,5419,Yield,83,Sorghum,1963,1963,hg/ha,5005
@@ -24768,6 +25074,12 @@ QC,Crops,100,India,5419,Yield,83,Sorghum,2013,2013,hg/ha,8502
 QC,Crops,100,India,5419,Yield,83,Sorghum,2014,2014,hg/ha,9568
 QC,Crops,100,India,5419,Yield,83,Sorghum,2015,2015,hg/ha,8847
 QC,Crops,100,India,5419,Yield,83,Sorghum,2016,2016,hg/ha,7805
+QC,Crops,100,India,5419,Yield,83,Sorghum,2017,2017,hg/ha,8877
+QC,Crops,100,India,5419,Yield,83,Sorghum,2018,2018,hg/ha,9781
+QC,Crops,100,India,5419,Yield,83,Sorghum,2019,2019,hg/ha,9846
+QC,Crops,100,India,5419,Yield,83,Sorghum,2020,2020,hg/ha,8816
+QC,Crops,100,India,5419,Yield,83,Sorghum,2021,2021,hg/ha,11839
+QC,Crops,100,India,5419,Yield,83,Sorghum,2022,2022,hg/ha,9637
 QC,Crops,100,India,5419,Yield,236,Soybeans,1961,1961,hg/ha,4545
 QC,Crops,100,India,5419,Yield,236,Soybeans,1962,1962,hg/ha,4545
 QC,Crops,100,India,5419,Yield,236,Soybeans,1963,1963,hg/ha,4444
@@ -24824,6 +25136,12 @@ QC,Crops,100,India,5419,Yield,236,Soybeans,2013,2013,hg/ha,10123
 QC,Crops,100,India,5419,Yield,236,Soybeans,2014,2014,hg/ha,9358
 QC,Crops,100,India,5419,Yield,236,Soybeans,2015,2015,hg/ha,7344
 QC,Crops,100,India,5419,Yield,236,Soybeans,2016,2016,hg/ha,12181
+QC,Crops,100,India,5419,Yield,236,Soybeans,2017,2017,hg/ha,17448
+QC,Crops,100,India,5419,Yield,236,Soybeans,2018,2018,hg/ha,15768
+QC,Crops,100,India,5419,Yield,236,Soybeans,2019,2019,hg/ha,17877
+QC,Crops,100,India,5419,Yield,236,Soybeans,2020,2020,hg/ha,12919
+QC,Crops,100,India,5419,Yield,236,Soybeans,2021,2021,hg/ha,12970
+QC,Crops,100,India,5419,Yield,236,Soybeans,2022,2022,hg/ha,18917
 QC,Crops,100,India,5419,Yield,122,Sweet potatoes,1961,1961,hg/ha,77362
 QC,Crops,100,India,5419,Yield,122,Sweet potatoes,1962,1962,hg/ha,62174
 QC,Crops,100,India,5419,Yield,122,Sweet potatoes,1963,1963,hg/ha,63910
@@ -24880,6 +25198,12 @@ QC,Crops,100,India,5419,Yield,122,Sweet potatoes,2013,2013,hg/ha,101288
 QC,Crops,100,India,5419,Yield,122,Sweet potatoes,2014,2014,hg/ha,102756
 QC,Crops,100,India,5419,Yield,122,Sweet potatoes,2015,2015,hg/ha,114766
 QC,Crops,100,India,5419,Yield,122,Sweet potatoes,2016,2016,hg/ha,113231
+QC,Crops,100,India,5419,Yield,122,Sweet potatoes,2017,2017,hg/ha,115004
+QC,Crops,100,India,5419,Yield,122,Sweet potatoes,2018,2018,hg/ha,115203
+QC,Crops,100,India,5419,Yield,122,Sweet potatoes,2019,2019,hg/ha,117850
+QC,Crops,100,India,5419,Yield,122,Sweet potatoes,2020,2020,hg/ha,118272
+QC,Crops,100,India,5419,Yield,122,Sweet potatoes,2021,2021,hg/ha,114659
+QC,Crops,100,India,5419,Yield,122,Sweet potatoes,2022,2022,hg/ha,115654
 QC,Crops,100,India,5419,Yield,15,Wheat,1961,1961,hg/ha,8507
 QC,Crops,100,India,5419,Yield,15,Wheat,1962,1962,hg/ha,8896
 QC,Crops,100,India,5419,Yield,15,Wheat,1963,1963,hg/ha,7929
@@ -24936,6 +25260,12 @@ QC,Crops,100,India,5419,Yield,15,Wheat,2013,2013,hg/ha,31538
 QC,Crops,100,India,5419,Yield,15,Wheat,2014,2014,hg/ha,31457
 QC,Crops,100,India,5419,Yield,15,Wheat,2015,2015,hg/ha,27496
 QC,Crops,100,India,5419,Yield,15,Wheat,2016,2016,hg/ha,30930
+QC,Crops,100,India,5419,Yield,15,Wheat,2017,2017,hg/ha,39421
+QC,Crops,100,India,5419,Yield,15,Wheat,2018,2018,hg/ha,31862
+QC,Crops,100,India,5419,Yield,15,Wheat,2019,2019,hg/ha,39712
+QC,Crops,100,India,5419,Yield,15,Wheat,2020,2020,hg/ha,36460
+QC,Crops,100,India,5419,Yield,15,Wheat,2021,2021,hg/ha,34980
+QC,Crops,100,India,5419,Yield,15,Wheat,2022,2022,hg/ha,39886
 QC,Crops,101,Indonesia,5419,Yield,125,Cassava,1961,1961,hg/ha,75707
 QC,Crops,101,Indonesia,5419,Yield,125,Cassava,1962,1962,hg/ha,78578
 QC,Crops,101,Indonesia,5419,Yield,125,Cassava,1963,1963,hg/ha,73083
@@ -42300,261 +42630,261 @@ QC,Crops,146,Republic of Moldova,5419,Yield,15,Wheat,2013,2013,hg/ha,27551
 QC,Crops,146,Republic of Moldova,5419,Yield,15,Wheat,2014,2014,hg/ha,31667
 QC,Crops,146,Republic of Moldova,5419,Yield,15,Wheat,2015,2015,hg/ha,26729
 QC,Crops,146,Republic of Moldova,5419,Yield,15,Wheat,2016,2016,hg/ha,34869
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1961,1961,hg/ha,100000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1962,1962,hg/ha,100000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1963,1963,hg/ha,100000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1964,1964,hg/ha,100000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1965,1965,hg/ha,75000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1966,1966,hg/ha,100000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1967,1967,hg/ha,100000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1968,1968,hg/ha,75000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1969,1969,hg/ha,75000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1970,1970,hg/ha,75000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1971,1971,hg/ha,100000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1972,1972,hg/ha,97561
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1973,1973,hg/ha,97561
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1974,1974,hg/ha,97561
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1975,1975,hg/ha,97561
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1976,1976,hg/ha,97561
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1977,1977,hg/ha,100000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1978,1978,hg/ha,100000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1979,1979,hg/ha,100000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1980,1980,hg/ha,100000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1981,1981,hg/ha,102326
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1982,1982,hg/ha,102326
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1983,1983,hg/ha,110000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1984,1984,hg/ha,100000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1985,1985,hg/ha,70588
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1986,1986,hg/ha,61765
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1987,1987,hg/ha,61765
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1988,1988,hg/ha,60000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1989,1989,hg/ha,60000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1990,1990,hg/ha,80029
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1991,1991,hg/ha,62500
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1992,1992,hg/ha,52100
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1993,1993,hg/ha,47444
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1994,1994,hg/ha,50000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1995,1995,hg/ha,74074
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1996,1996,hg/ha,74089
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1997,1997,hg/ha,108333
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1998,1998,hg/ha,125000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,1999,1999,hg/ha,160000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2000,2000,hg/ha,175000
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2001,2001,hg/ha,227273
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2002,2002,hg/ha,204167
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2003,2003,hg/ha,173913
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2004,2004,hg/ha,158856
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2005,2005,hg/ha,142857
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2006,2006,hg/ha,133333
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2007,2007,hg/ha,115833
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2008,2008,hg/ha,115833
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2009,2009,hg/ha,115833
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2010,2010,hg/ha,114963
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2011,2011,hg/ha,108418
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2012,2012,hg/ha,102931
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2013,2013,hg/ha,99036
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2014,2014,hg/ha,95141
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2015,2015,hg/ha,91246
-QC,Crops,182,Réunion,5419,Yield,125,Cassava,2016,2016,hg/ha,87650
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1961,1961,hg/ha,39474
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1962,1962,hg/ha,39474
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1963,1963,hg/ha,39474
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1964,1964,hg/ha,39474
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1965,1965,hg/ha,39474
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1966,1966,hg/ha,41860
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1967,1967,hg/ha,36667
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1968,1968,hg/ha,33333
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1969,1969,hg/ha,35200
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1970,1970,hg/ha,32000
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1971,1971,hg/ha,39286
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1972,1972,hg/ha,41071
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1973,1973,hg/ha,39844
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1974,1974,hg/ha,44155
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1975,1975,hg/ha,42626
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1976,1976,hg/ha,53935
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1977,1977,hg/ha,62924
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1978,1978,hg/ha,53935
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1979,1979,hg/ha,54000
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1980,1980,hg/ha,42808
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1981,1981,hg/ha,55102
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1982,1982,hg/ha,55102
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1983,1983,hg/ha,41763
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1984,1984,hg/ha,45200
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1985,1985,hg/ha,44729
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1986,1986,hg/ha,46207
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1987,1987,hg/ha,45652
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1988,1988,hg/ha,45048
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1989,1989,hg/ha,65000
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1990,1990,hg/ha,43458
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1991,1991,hg/ha,60318
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1992,1992,hg/ha,60385
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1993,1993,hg/ha,59780
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1994,1994,hg/ha,61852
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1995,1995,hg/ha,76959
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1996,1996,hg/ha,77001
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1997,1997,hg/ha,78000
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1998,1998,hg/ha,76923
-QC,Crops,182,Réunion,5419,Yield,56,Maize,1999,1999,hg/ha,77039
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2000,2000,hg/ha,77122
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2001,2001,hg/ha,77419
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2002,2002,hg/ha,77204
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2003,2003,hg/ha,77220
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2004,2004,hg/ha,76471
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2005,2005,hg/ha,77527
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2006,2006,hg/ha,78947
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2007,2007,hg/ha,79600
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2008,2008,hg/ha,78333
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2009,2009,hg/ha,74667
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2010,2010,hg/ha,77254
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2011,2011,hg/ha,77574
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2012,2012,hg/ha,77452
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2013,2013,hg/ha,77504
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2014,2014,hg/ha,77557
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2015,2015,hg/ha,77610
-QC,Crops,182,Réunion,5419,Yield,56,Maize,2016,2016,hg/ha,77663
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1961,1961,hg/ha,76667
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1962,1962,hg/ha,83333
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1963,1963,hg/ha,83333
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1964,1964,hg/ha,83333
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1965,1965,hg/ha,150000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1966,1966,hg/ha,150000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1967,1967,hg/ha,144444
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1968,1968,hg/ha,125000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1969,1969,hg/ha,110000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1970,1970,hg/ha,94000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1971,1971,hg/ha,128571
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1972,1972,hg/ha,106250
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1973,1973,hg/ha,92000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1974,1974,hg/ha,125333
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1975,1975,hg/ha,174933
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1976,1976,hg/ha,185333
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1977,1977,hg/ha,181000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1978,1978,hg/ha,209000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1979,1979,hg/ha,205600
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1980,1980,hg/ha,209583
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1981,1981,hg/ha,204800
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1982,1982,hg/ha,171200
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1983,1983,hg/ha,144080
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1984,1984,hg/ha,141240
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1985,1985,hg/ha,140714
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1986,1986,hg/ha,140571
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1987,1987,hg/ha,140571
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1988,1988,hg/ha,141015
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1989,1989,hg/ha,135760
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1990,1990,hg/ha,141448
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1991,1991,hg/ha,139990
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1992,1992,hg/ha,117669
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1993,1993,hg/ha,86843
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1994,1994,hg/ha,115625
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1995,1995,hg/ha,150000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1996,1996,hg/ha,129200
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1997,1997,hg/ha,180000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1998,1998,hg/ha,160000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,1999,1999,hg/ha,180000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2000,2000,hg/ha,253086
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2001,2001,hg/ha,232370
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2002,2002,hg/ha,208514
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2003,2003,hg/ha,201850
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2004,2004,hg/ha,181467
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2005,2005,hg/ha,149302
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2006,2006,hg/ha,140625
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2007,2007,hg/ha,120000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2008,2008,hg/ha,140000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2009,2009,hg/ha,120000
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2010,2010,hg/ha,109397
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2011,2011,hg/ha,95033
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2012,2012,hg/ha,79673
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2013,2013,hg/ha,69856
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2014,2014,hg/ha,61531
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2015,2015,hg/ha,54293
-QC,Crops,182,Réunion,5419,Yield,116,Potatoes,2016,2016,hg/ha,49837
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1986,1986,hg/ha,18750
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1987,1987,hg/ha,18750
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1988,1988,hg/ha,18750
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1989,1989,hg/ha,18750
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1990,1990,hg/ha,20000
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1991,1991,hg/ha,19848
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1992,1992,hg/ha,20000
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1993,1993,hg/ha,20000
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1994,1994,hg/ha,21496
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1995,1995,hg/ha,22472
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1996,1996,hg/ha,23522
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1997,1997,hg/ha,24636
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1998,1998,hg/ha,25805
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",1999,1999,hg/ha,27019
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2000,2000,hg/ha,28269
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2001,2001,hg/ha,29545
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2002,2002,hg/ha,30840
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2003,2003,hg/ha,32143
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2004,2004,hg/ha,33466
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2005,2005,hg/ha,34780
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2006,2006,hg/ha,36075
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2007,2007,hg/ha,37342
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2008,2008,hg/ha,38572
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2009,2009,hg/ha,39755
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2010,2010,hg/ha,40883
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2011,2011,hg/ha,41946
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2012,2012,hg/ha,43333
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2013,2013,hg/ha,43333
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2014,2014,hg/ha,44215
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2015,2015,hg/ha,46189
-QC,Crops,182,Réunion,5419,Yield,27,"Rice, paddy",2016,2016,hg/ha,46701
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1961,1961,hg/ha,120000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1962,1962,hg/ha,120000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1963,1963,hg/ha,120000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1964,1964,hg/ha,120000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1965,1965,hg/ha,120000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1966,1966,hg/ha,120000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1967,1967,hg/ha,140000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1968,1968,hg/ha,146154
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1969,1969,hg/ha,168000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1970,1970,hg/ha,180000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1971,1971,hg/ha,192000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1972,1972,hg/ha,227273
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1973,1973,hg/ha,227273
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1974,1974,hg/ha,227273
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1975,1975,hg/ha,227273
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1976,1976,hg/ha,227273
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1977,1977,hg/ha,220833
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1978,1978,hg/ha,200000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1979,1979,hg/ha,120000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1980,1980,hg/ha,100000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1981,1981,hg/ha,80000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1982,1982,hg/ha,80533
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1983,1983,hg/ha,60600
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1984,1984,hg/ha,60000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1985,1985,hg/ha,50000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1986,1986,hg/ha,50000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1987,1987,hg/ha,50000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1988,1988,hg/ha,50000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1989,1989,hg/ha,50000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1990,1990,hg/ha,66667
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1991,1991,hg/ha,24386
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1992,1992,hg/ha,22700
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1993,1993,hg/ha,21900
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1994,1994,hg/ha,25000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1995,1995,hg/ha,25000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1996,1996,hg/ha,25000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1997,1997,hg/ha,43333
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1998,1998,hg/ha,76923
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,1999,1999,hg/ha,200000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2000,2000,hg/ha,241379
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2001,2001,hg/ha,240000
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2002,2002,hg/ha,209333
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2003,2003,hg/ha,175089
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2004,2004,hg/ha,235864
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2005,2005,hg/ha,217257
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2006,2006,hg/ha,231187
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2007,2007,hg/ha,252596
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2008,2008,hg/ha,270952
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2009,2009,hg/ha,280051
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2010,2010,hg/ha,281068
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2011,2011,hg/ha,280147
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2012,2012,hg/ha,283318
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2013,2013,hg/ha,292612
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2014,2014,hg/ha,305645
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2015,2015,hg/ha,318142
-QC,Crops,182,Réunion,5419,Yield,122,Sweet potatoes,2016,2016,hg/ha,327132
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1961,1961,hg/ha,100000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1962,1962,hg/ha,100000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1963,1963,hg/ha,100000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1964,1964,hg/ha,100000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1965,1965,hg/ha,75000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1966,1966,hg/ha,100000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1967,1967,hg/ha,100000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1968,1968,hg/ha,75000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1969,1969,hg/ha,75000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1970,1970,hg/ha,75000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1971,1971,hg/ha,100000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1972,1972,hg/ha,97561
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1973,1973,hg/ha,97561
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1974,1974,hg/ha,97561
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1975,1975,hg/ha,97561
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1976,1976,hg/ha,97561
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1977,1977,hg/ha,100000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1978,1978,hg/ha,100000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1979,1979,hg/ha,100000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1980,1980,hg/ha,100000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1981,1981,hg/ha,102326
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1982,1982,hg/ha,102326
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1983,1983,hg/ha,110000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1984,1984,hg/ha,100000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1985,1985,hg/ha,70588
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1986,1986,hg/ha,61765
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1987,1987,hg/ha,61765
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1988,1988,hg/ha,60000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1989,1989,hg/ha,60000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1990,1990,hg/ha,80029
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1991,1991,hg/ha,62500
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1992,1992,hg/ha,52100
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1993,1993,hg/ha,47444
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1994,1994,hg/ha,50000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1995,1995,hg/ha,74074
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1996,1996,hg/ha,74089
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1997,1997,hg/ha,108333
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1998,1998,hg/ha,125000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,1999,1999,hg/ha,160000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2000,2000,hg/ha,175000
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2001,2001,hg/ha,227273
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2002,2002,hg/ha,204167
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2003,2003,hg/ha,173913
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2004,2004,hg/ha,158856
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2005,2005,hg/ha,142857
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2006,2006,hg/ha,133333
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2007,2007,hg/ha,115833
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2008,2008,hg/ha,115833
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2009,2009,hg/ha,115833
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2010,2010,hg/ha,114963
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2011,2011,hg/ha,108418
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2012,2012,hg/ha,102931
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2013,2013,hg/ha,99036
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2014,2014,hg/ha,95141
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2015,2015,hg/ha,91246
+QC,Crops,182,R?union,5419,Yield,125,Cassava,2016,2016,hg/ha,87650
+QC,Crops,182,R?union,5419,Yield,56,Maize,1961,1961,hg/ha,39474
+QC,Crops,182,R?union,5419,Yield,56,Maize,1962,1962,hg/ha,39474
+QC,Crops,182,R?union,5419,Yield,56,Maize,1963,1963,hg/ha,39474
+QC,Crops,182,R?union,5419,Yield,56,Maize,1964,1964,hg/ha,39474
+QC,Crops,182,R?union,5419,Yield,56,Maize,1965,1965,hg/ha,39474
+QC,Crops,182,R?union,5419,Yield,56,Maize,1966,1966,hg/ha,41860
+QC,Crops,182,R?union,5419,Yield,56,Maize,1967,1967,hg/ha,36667
+QC,Crops,182,R?union,5419,Yield,56,Maize,1968,1968,hg/ha,33333
+QC,Crops,182,R?union,5419,Yield,56,Maize,1969,1969,hg/ha,35200
+QC,Crops,182,R?union,5419,Yield,56,Maize,1970,1970,hg/ha,32000
+QC,Crops,182,R?union,5419,Yield,56,Maize,1971,1971,hg/ha,39286
+QC,Crops,182,R?union,5419,Yield,56,Maize,1972,1972,hg/ha,41071
+QC,Crops,182,R?union,5419,Yield,56,Maize,1973,1973,hg/ha,39844
+QC,Crops,182,R?union,5419,Yield,56,Maize,1974,1974,hg/ha,44155
+QC,Crops,182,R?union,5419,Yield,56,Maize,1975,1975,hg/ha,42626
+QC,Crops,182,R?union,5419,Yield,56,Maize,1976,1976,hg/ha,53935
+QC,Crops,182,R?union,5419,Yield,56,Maize,1977,1977,hg/ha,62924
+QC,Crops,182,R?union,5419,Yield,56,Maize,1978,1978,hg/ha,53935
+QC,Crops,182,R?union,5419,Yield,56,Maize,1979,1979,hg/ha,54000
+QC,Crops,182,R?union,5419,Yield,56,Maize,1980,1980,hg/ha,42808
+QC,Crops,182,R?union,5419,Yield,56,Maize,1981,1981,hg/ha,55102
+QC,Crops,182,R?union,5419,Yield,56,Maize,1982,1982,hg/ha,55102
+QC,Crops,182,R?union,5419,Yield,56,Maize,1983,1983,hg/ha,41763
+QC,Crops,182,R?union,5419,Yield,56,Maize,1984,1984,hg/ha,45200
+QC,Crops,182,R?union,5419,Yield,56,Maize,1985,1985,hg/ha,44729
+QC,Crops,182,R?union,5419,Yield,56,Maize,1986,1986,hg/ha,46207
+QC,Crops,182,R?union,5419,Yield,56,Maize,1987,1987,hg/ha,45652
+QC,Crops,182,R?union,5419,Yield,56,Maize,1988,1988,hg/ha,45048
+QC,Crops,182,R?union,5419,Yield,56,Maize,1989,1989,hg/ha,65000
+QC,Crops,182,R?union,5419,Yield,56,Maize,1990,1990,hg/ha,43458
+QC,Crops,182,R?union,5419,Yield,56,Maize,1991,1991,hg/ha,60318
+QC,Crops,182,R?union,5419,Yield,56,Maize,1992,1992,hg/ha,60385
+QC,Crops,182,R?union,5419,Yield,56,Maize,1993,1993,hg/ha,59780
+QC,Crops,182,R?union,5419,Yield,56,Maize,1994,1994,hg/ha,61852
+QC,Crops,182,R?union,5419,Yield,56,Maize,1995,1995,hg/ha,76959
+QC,Crops,182,R?union,5419,Yield,56,Maize,1996,1996,hg/ha,77001
+QC,Crops,182,R?union,5419,Yield,56,Maize,1997,1997,hg/ha,78000
+QC,Crops,182,R?union,5419,Yield,56,Maize,1998,1998,hg/ha,76923
+QC,Crops,182,R?union,5419,Yield,56,Maize,1999,1999,hg/ha,77039
+QC,Crops,182,R?union,5419,Yield,56,Maize,2000,2000,hg/ha,77122
+QC,Crops,182,R?union,5419,Yield,56,Maize,2001,2001,hg/ha,77419
+QC,Crops,182,R?union,5419,Yield,56,Maize,2002,2002,hg/ha,77204
+QC,Crops,182,R?union,5419,Yield,56,Maize,2003,2003,hg/ha,77220
+QC,Crops,182,R?union,5419,Yield,56,Maize,2004,2004,hg/ha,76471
+QC,Crops,182,R?union,5419,Yield,56,Maize,2005,2005,hg/ha,77527
+QC,Crops,182,R?union,5419,Yield,56,Maize,2006,2006,hg/ha,78947
+QC,Crops,182,R?union,5419,Yield,56,Maize,2007,2007,hg/ha,79600
+QC,Crops,182,R?union,5419,Yield,56,Maize,2008,2008,hg/ha,78333
+QC,Crops,182,R?union,5419,Yield,56,Maize,2009,2009,hg/ha,74667
+QC,Crops,182,R?union,5419,Yield,56,Maize,2010,2010,hg/ha,77254
+QC,Crops,182,R?union,5419,Yield,56,Maize,2011,2011,hg/ha,77574
+QC,Crops,182,R?union,5419,Yield,56,Maize,2012,2012,hg/ha,77452
+QC,Crops,182,R?union,5419,Yield,56,Maize,2013,2013,hg/ha,77504
+QC,Crops,182,R?union,5419,Yield,56,Maize,2014,2014,hg/ha,77557
+QC,Crops,182,R?union,5419,Yield,56,Maize,2015,2015,hg/ha,77610
+QC,Crops,182,R?union,5419,Yield,56,Maize,2016,2016,hg/ha,77663
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1961,1961,hg/ha,76667
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1962,1962,hg/ha,83333
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1963,1963,hg/ha,83333
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1964,1964,hg/ha,83333
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1965,1965,hg/ha,150000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1966,1966,hg/ha,150000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1967,1967,hg/ha,144444
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1968,1968,hg/ha,125000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1969,1969,hg/ha,110000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1970,1970,hg/ha,94000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1971,1971,hg/ha,128571
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1972,1972,hg/ha,106250
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1973,1973,hg/ha,92000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1974,1974,hg/ha,125333
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1975,1975,hg/ha,174933
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1976,1976,hg/ha,185333
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1977,1977,hg/ha,181000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1978,1978,hg/ha,209000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1979,1979,hg/ha,205600
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1980,1980,hg/ha,209583
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1981,1981,hg/ha,204800
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1982,1982,hg/ha,171200
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1983,1983,hg/ha,144080
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1984,1984,hg/ha,141240
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1985,1985,hg/ha,140714
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1986,1986,hg/ha,140571
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1987,1987,hg/ha,140571
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1988,1988,hg/ha,141015
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1989,1989,hg/ha,135760
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1990,1990,hg/ha,141448
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1991,1991,hg/ha,139990
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1992,1992,hg/ha,117669
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1993,1993,hg/ha,86843
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1994,1994,hg/ha,115625
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1995,1995,hg/ha,150000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1996,1996,hg/ha,129200
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1997,1997,hg/ha,180000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1998,1998,hg/ha,160000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,1999,1999,hg/ha,180000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2000,2000,hg/ha,253086
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2001,2001,hg/ha,232370
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2002,2002,hg/ha,208514
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2003,2003,hg/ha,201850
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2004,2004,hg/ha,181467
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2005,2005,hg/ha,149302
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2006,2006,hg/ha,140625
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2007,2007,hg/ha,120000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2008,2008,hg/ha,140000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2009,2009,hg/ha,120000
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2010,2010,hg/ha,109397
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2011,2011,hg/ha,95033
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2012,2012,hg/ha,79673
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2013,2013,hg/ha,69856
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2014,2014,hg/ha,61531
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2015,2015,hg/ha,54293
+QC,Crops,182,R?union,5419,Yield,116,Potatoes,2016,2016,hg/ha,49837
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1986,1986,hg/ha,18750
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1987,1987,hg/ha,18750
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1988,1988,hg/ha,18750
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1989,1989,hg/ha,18750
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1990,1990,hg/ha,20000
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1991,1991,hg/ha,19848
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1992,1992,hg/ha,20000
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1993,1993,hg/ha,20000
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1994,1994,hg/ha,21496
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1995,1995,hg/ha,22472
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1996,1996,hg/ha,23522
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1997,1997,hg/ha,24636
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1998,1998,hg/ha,25805
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",1999,1999,hg/ha,27019
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2000,2000,hg/ha,28269
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2001,2001,hg/ha,29545
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2002,2002,hg/ha,30840
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2003,2003,hg/ha,32143
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2004,2004,hg/ha,33466
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2005,2005,hg/ha,34780
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2006,2006,hg/ha,36075
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2007,2007,hg/ha,37342
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2008,2008,hg/ha,38572
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2009,2009,hg/ha,39755
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2010,2010,hg/ha,40883
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2011,2011,hg/ha,41946
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2012,2012,hg/ha,43333
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2013,2013,hg/ha,43333
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2014,2014,hg/ha,44215
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2015,2015,hg/ha,46189
+QC,Crops,182,R?union,5419,Yield,27,"Rice, paddy",2016,2016,hg/ha,46701
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1961,1961,hg/ha,120000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1962,1962,hg/ha,120000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1963,1963,hg/ha,120000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1964,1964,hg/ha,120000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1965,1965,hg/ha,120000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1966,1966,hg/ha,120000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1967,1967,hg/ha,140000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1968,1968,hg/ha,146154
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1969,1969,hg/ha,168000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1970,1970,hg/ha,180000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1971,1971,hg/ha,192000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1972,1972,hg/ha,227273
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1973,1973,hg/ha,227273
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1974,1974,hg/ha,227273
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1975,1975,hg/ha,227273
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1976,1976,hg/ha,227273
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1977,1977,hg/ha,220833
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1978,1978,hg/ha,200000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1979,1979,hg/ha,120000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1980,1980,hg/ha,100000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1981,1981,hg/ha,80000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1982,1982,hg/ha,80533
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1983,1983,hg/ha,60600
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1984,1984,hg/ha,60000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1985,1985,hg/ha,50000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1986,1986,hg/ha,50000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1987,1987,hg/ha,50000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1988,1988,hg/ha,50000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1989,1989,hg/ha,50000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1990,1990,hg/ha,66667
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1991,1991,hg/ha,24386
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1992,1992,hg/ha,22700
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1993,1993,hg/ha,21900
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1994,1994,hg/ha,25000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1995,1995,hg/ha,25000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1996,1996,hg/ha,25000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1997,1997,hg/ha,43333
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1998,1998,hg/ha,76923
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,1999,1999,hg/ha,200000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2000,2000,hg/ha,241379
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2001,2001,hg/ha,240000
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2002,2002,hg/ha,209333
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2003,2003,hg/ha,175089
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2004,2004,hg/ha,235864
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2005,2005,hg/ha,217257
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2006,2006,hg/ha,231187
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2007,2007,hg/ha,252596
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2008,2008,hg/ha,270952
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2009,2009,hg/ha,280051
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2010,2010,hg/ha,281068
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2011,2011,hg/ha,280147
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2012,2012,hg/ha,283318
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2013,2013,hg/ha,292612
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2014,2014,hg/ha,305645
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2015,2015,hg/ha,318142
+QC,Crops,182,R?union,5419,Yield,122,Sweet potatoes,2016,2016,hg/ha,327132
 QC,Crops,183,Romania,5419,Yield,56,Maize,1961,1961,hg/ha,16741
 QC,Crops,183,Romania,5419,Yield,56,Maize,1962,1962,hg/ha,15876
 QC,Crops,183,Romania,5419,Yield,56,Maize,1963,1963,hg/ha,17822
